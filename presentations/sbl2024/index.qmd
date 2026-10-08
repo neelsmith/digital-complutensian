@@ -1,5 +1,4 @@
 ---
-engine: julia
 title: Society of Biblical Literature, 2024
 ---
 

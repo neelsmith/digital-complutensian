@@ -1,5 +1,4 @@
 ---
-engine: julia
 title: A notebook for browsing images of the Complutensian Bible
 ---
 

@@ -1,5 +1,4 @@
 ---
-engine: julia
 title: Read passage of text with image from BNE copy
 ---
 

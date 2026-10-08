@@ -1,5 +1,4 @@
 ---
-engine: julia
 title: Usage of abbreviations in glossing
 ---
 

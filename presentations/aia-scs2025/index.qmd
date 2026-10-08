@@ -1,5 +1,4 @@
 ---
-engine: julia
 title: "AIA/SCS 2025"
 ---
 

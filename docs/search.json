@@ -1,0 +1,1699 @@
+[
+  {
+    "objectID": "who/index.html",
+    "href": "who/index.html",
+    "title": "Who we are",
+    "section": "",
+    "text": "Neel Smith, Professor Emeritus, Department of Classics, College of the Holy Cross.\n\n\nI am an emeritus professor at the College of the Holy Cross. I’m especially interested in studying ancient texts using computational approaches that take account of both the textual contents and the non-textual features of physical artifacts, such as page layout, organization of contents in tabular structures, graphic elements like mathematical figures, or non-textual notation such as musical notation. See my site on quarto.pub for some of my current projects, and more of my digital scholarship.\n\n\nAshley Terjanian, Holy Cross ’26.\n\n\nI am a student in the Class of 2026 at the College of the Holy Cross studying Classics and Environmental Studies. I love learning about various realms of the ancient world, and connecting my understanding of antiquity to our current world’s environment. In the summer of 2024, I was funded by Holy Cross’ Weiss Summer Research Program to work on a digital edition of the Latin glosses in the Complutensian Polyglot Bible, and study its multilingual reading structures, early modern printing practices, and ancient manuscripts."
+  },
+  {
+    "objectID": "examples/index.html",
+    "href": "examples/index.html",
+    "title": "Exploring the digital polyglot",
+    "section": "",
+    "text": "We want to faciliate multilingual reading for all, whether beginners or experts in any of the languages of the Complutensian Bible, in digital applications adapted to their needs and interests, whether or not we’ve even imagined the application yet. It’s not possible to achieve this with a single, monolithic application. Instead, we are assembling a collection of reusable digital resources. These include data sets already created by others as well our own contributions, and specific applications using those data sets.\nThis approach is an example of what I’ve elsewhere called “small-digital” scholarship. We want to encourage exploratory scholarly work with minimal technical prerequisites that can be carried out by a small team or individual, is well documented and can be easily replicated.",
+    "crumbs": [
+      "Applications",
+      "Exploring the digital polyglot"
+    ]
+  },
+  {
+    "objectID": "examples/index.html#a-small-digital-approach",
+    "href": "examples/index.html#a-small-digital-approach",
+    "title": "Exploring the digital polyglot",
+    "section": "",
+    "text": "We want to faciliate multilingual reading for all, whether beginners or experts in any of the languages of the Complutensian Bible, in digital applications adapted to their needs and interests, whether or not we’ve even imagined the application yet. It’s not possible to achieve this with a single, monolithic application. Instead, we are assembling a collection of reusable digital resources. These include data sets already created by others as well our own contributions, and specific applications using those data sets.\nThis approach is an example of what I’ve elsewhere called “small-digital” scholarship. We want to encourage exploratory scholarly work with minimal technical prerequisites that can be carried out by a small team or individual, is well documented and can be easily replicated.",
+    "crumbs": [
+      "Applications",
+      "Exploring the digital polyglot"
+    ]
+  },
+  {
+    "objectID": "examples/index.html#platforms-for-sharing-replicable-work",
+    "href": "examples/index.html#platforms-for-sharing-replicable-work",
+    "title": "Exploring the digital polyglot",
+    "section": "Platforms for sharing replicable work",
+    "text": "Platforms for sharing replicable work\n\nPluto notebooks\nQuarto",
+    "crumbs": [
+      "Applications",
+      "Exploring the digital polyglot"
+    ]
+  },
+  {
+    "objectID": "examples/pluto/aligned-with-glosses/index.html",
+    "href": "examples/pluto/aligned-with-glosses/index.html",
+    "title": "Texts and glosses aligned by passage",
+    "section": "",
+    "text": "Select a passage of text and read all four texts of the Complutensian along with the Latin glosses for the Septuagint and the Targum Onkelos."
+  },
+  {
+    "objectID": "examples/pluto/aligned-with-glosses/index.html#overview",
+    "href": "examples/pluto/aligned-with-glosses/index.html#overview",
+    "title": "Texts and glosses aligned by passage",
+    "section": "",
+    "text": "Select a passage of text and read all four texts of the Complutensian along with the Latin glosses for the Septuagint and the Targum Onkelos."
+  },
+  {
+    "objectID": "examples/pluto/aligned-with-glosses/index.html#notebook",
+    "href": "examples/pluto/aligned-with-glosses/index.html#notebook",
+    "title": "Texts and glosses aligned by passage",
+    "section": "Notebook",
+    "text": "Notebook\n\n\n\n\n\n\nWarningUses local resources\n\n\n\nThis notebook uses data in local files, and expects to be run files from a copy of this github repository.\n\n\n\nHTML version (readable in a web browser)\nPluto notebook (download and run in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/aligned-with-glosses/index.html#screen-capture",
+    "href": "examples/pluto/aligned-with-glosses/index.html#screen-capture",
+    "title": "Texts and glosses aligned by passage",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/browse-codex/index.html",
+    "href": "examples/pluto/browse-codex/index.html",
+    "title": "Navigate by quire and page",
+    "section": "",
+    "text": "Select a volume, quire and page to see a page image linked to pannable/zoomable view. Optionally see a tabular summary of the quire’s structure with thumbnail images linked to an image viewer.\n\n\n\n\nHTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)\n\n\n\n\n\n\n\nScreen capture"
+  },
+  {
+    "objectID": "examples/pluto/browse-codex/index.html#overview",
+    "href": "examples/pluto/browse-codex/index.html#overview",
+    "title": "Navigate by quire and page",
+    "section": "",
+    "text": "Select a volume, quire and page to see a page image linked to pannable/zoomable view. Optionally see a tabular summary of the quire’s structure with thumbnail images linked to an image viewer."
+  },
+  {
+    "objectID": "examples/pluto/browse-codex/index.html#notebook",
+    "href": "examples/pluto/browse-codex/index.html#notebook",
+    "title": "Navigate by quire and page",
+    "section": "",
+    "text": "HTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/browse-codex/index.html#screen-capture",
+    "href": "examples/pluto/browse-codex/index.html#screen-capture",
+    "title": "Navigate by quire and page",
+    "section": "",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/align-verbs-multilingual/index.html",
+    "href": "examples/pluto/align-verbs-multilingual/index.html",
+    "title": "Aligning verb functions across languages",
+    "section": "",
+    "text": "Choose a language, then choose from a list of most frequent verbs in that language; for each passage where a verb of the verb occurs, suggest the most likely corresponding verb in the other documents of the Complutensian."
+  },
+  {
+    "objectID": "examples/pluto/align-verbs-multilingual/index.html#overview",
+    "href": "examples/pluto/align-verbs-multilingual/index.html#overview",
+    "title": "Aligning verb functions across languages",
+    "section": "",
+    "text": "Choose a language, then choose from a list of most frequent verbs in that language; for each passage where a verb of the verb occurs, suggest the most likely corresponding verb in the other documents of the Complutensian."
+  },
+  {
+    "objectID": "examples/pluto/align-verbs-multilingual/index.html#notebook",
+    "href": "examples/pluto/align-verbs-multilingual/index.html#notebook",
+    "title": "Aligning verb functions across languages",
+    "section": "Notebook",
+    "text": "Notebook\n\nHTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/align-verbs-multilingual/index.html#screen-capture",
+    "href": "examples/pluto/align-verbs-multilingual/index.html#screen-capture",
+    "title": "Aligning verb functions across languages",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/glossing-vocab/index.html",
+    "href": "examples/pluto/glossing-vocab/index.html",
+    "title": "Comparing vocabulary of Latin glosses",
+    "section": "",
+    "text": "Select a passage of text. Tokens differing across the Latin documents are highlighted; the corresponding passages of the Targum Onkelos and the Septuagint are included for comparison with the glosses."
+  },
+  {
+    "objectID": "examples/pluto/glossing-vocab/index.html#overview",
+    "href": "examples/pluto/glossing-vocab/index.html#overview",
+    "title": "Comparing vocabulary of Latin glosses",
+    "section": "",
+    "text": "Select a passage of text. Tokens differing across the Latin documents are highlighted; the corresponding passages of the Targum Onkelos and the Septuagint are included for comparison with the glosses."
+  },
+  {
+    "objectID": "examples/pluto/glossing-vocab/index.html#notebook",
+    "href": "examples/pluto/glossing-vocab/index.html#notebook",
+    "title": "Comparing vocabulary of Latin glosses",
+    "section": "Notebook",
+    "text": "Notebook\n\nHTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/glossing-vocab/index.html#screen-capture",
+    "href": "examples/pluto/glossing-vocab/index.html#screen-capture",
+    "title": "Comparing vocabulary of Latin glosses",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/morphology-glosses/index.html",
+    "href": "examples/pluto/morphology-glosses/index.html",
+    "title": "Validate normalized text by parsing it morphologically",
+    "section": "",
+    "text": "Select a page, a set of glosses, and a passage on that page. Text contents are parsed, and the passage display with unanalyzed forms highlighted.\n\n\n\n\nHTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)\n\n\n\n\n\n\n\nScreen capture"
+  },
+  {
+    "objectID": "examples/pluto/morphology-glosses/index.html#overview",
+    "href": "examples/pluto/morphology-glosses/index.html#overview",
+    "title": "Validate normalized text by parsing it morphologically",
+    "section": "",
+    "text": "Select a page, a set of glosses, and a passage on that page. Text contents are parsed, and the passage display with unanalyzed forms highlighted."
+  },
+  {
+    "objectID": "examples/pluto/morphology-glosses/index.html#notebook",
+    "href": "examples/pluto/morphology-glosses/index.html#notebook",
+    "title": "Validate normalized text by parsing it morphologically",
+    "section": "",
+    "text": "HTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/morphology-glosses/index.html#screen-capture",
+    "href": "examples/pluto/morphology-glosses/index.html#screen-capture",
+    "title": "Validate normalized text by parsing it morphologically",
+    "section": "",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/vocab-cf-latin/index.html#notebook",
+    "href": "examples/pluto/vocab-cf-latin/index.html#notebook",
+    "title": "Compare vocabuary in Latin glosses and the Vulgate",
+    "section": "Notebook",
+    "text": "Notebook\nHTML"
+  },
+  {
+    "objectID": "examples/pluto/vocab-cf-latin/index.html#screen-capture",
+    "href": "examples/pluto/vocab-cf-latin/index.html#screen-capture",
+    "title": "Compare vocabuary in Latin glosses and the Vulgate",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/hebrew-verbs/index.html",
+    "href": "examples/pluto/hebrew-verbs/index.html",
+    "title": "Hebrew verbs",
+    "section": "",
+    "text": "Summarize verb usage per book of the Hebrew Bible. Choose an individual verb to see entry in Brown-Driver-Briggs lexicon, and passages where any form of the verb occurs, with the selected verb highlighted."
+  },
+  {
+    "objectID": "examples/pluto/hebrew-verbs/index.html#overview",
+    "href": "examples/pluto/hebrew-verbs/index.html#overview",
+    "title": "Hebrew verbs",
+    "section": "",
+    "text": "Summarize verb usage per book of the Hebrew Bible. Choose an individual verb to see entry in Brown-Driver-Briggs lexicon, and passages where any form of the verb occurs, with the selected verb highlighted."
+  },
+  {
+    "objectID": "examples/pluto/hebrew-verbs/index.html#notebook",
+    "href": "examples/pluto/hebrew-verbs/index.html#notebook",
+    "title": "Hebrew verbs",
+    "section": "Notebook",
+    "text": "Notebook\n\n\n\n\n\n\nWarningUses local resources\n\n\n\nThis notebook uses data in local files, and expects to be run files from a copy of this github repository.\n\n\n\nPluto notebook (download and run in Pluto)\nHTML version (readable in a web browser)"
+  },
+  {
+    "objectID": "examples/pluto/hebrew-verbs/index.html#screen-capture",
+    "href": "examples/pluto/hebrew-verbs/index.html#screen-capture",
+    "title": "Hebrew verbs",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/index.html",
+    "href": "examples/pluto/index.html",
+    "title": "Pluto notebooks",
+    "section": "",
+    "text": "One technology that is a good match for exploratory small-digital scholarship is Pluto, a reactive notebook system that runs in a browser. On this page we’re gathering examples of Pluto notebooks working with our datasets.",
+    "crumbs": [
+      "Applications",
+      "Pluto notebooks"
+    ]
+  },
+  {
+    "objectID": "examples/pluto/index.html#the-complutensians-editorial-practices-alignment-and-orthography",
+    "href": "examples/pluto/index.html#the-complutensians-editorial-practices-alignment-and-orthography",
+    "title": "Pluto notebooks",
+    "section": "The Complutensian’s editorial practices: alignment and orthography",
+    "text": "The Complutensian’s editorial practices: alignment and orthography\n\nLatin spacing markers\nusage of abbreviations in glosses\n\n\nDigital editing and indexing\n\nvalidating editing: diplomatic text and indexing to source image\nvalidating editing: morphological validation of normalized text\n\n\n\nReading passages of texts and glosses\n\nbrowse text passages in the four versions of the Complutensian Bible\nbrowse text passages and associated Latin glosses\npaired reader\ncitable tokens\n\n\n\nMorphological analysis\n\nmorphology of the Greek Septuagint\nfind and identify verb forms for passages in Greek\nisolate verb forms in passages of Greek\nisolate verbs in Latin documents\nHebrew verbs\n\n\n\nComparing textual contents\n\ncompare verbal usage in Latin glosses and Vulgate\nZipf’s law in Latin texts: token frequencies\nhistograms of verbs\n\n\n\nAligning features\n\nalign verb functions across languages\nalign verb usage in Latin text and glosses",
+    "crumbs": [
+      "Applications",
+      "Pluto notebooks"
+    ]
+  },
+  {
+    "objectID": "examples/pluto/paired-reader/index.html",
+    "href": "examples/pluto/paired-reader/index.html",
+    "title": "A paired reader",
+    "section": "",
+    "text": "Select a Biblical passage and pair any two of the four versions in the Complutensian to read the two versions juxtaposed to each other."
+  },
+  {
+    "objectID": "examples/pluto/paired-reader/index.html#overview",
+    "href": "examples/pluto/paired-reader/index.html#overview",
+    "title": "A paired reader",
+    "section": "",
+    "text": "Select a Biblical passage and pair any two of the four versions in the Complutensian to read the two versions juxtaposed to each other."
+  },
+  {
+    "objectID": "examples/pluto/paired-reader/index.html#notebook",
+    "href": "examples/pluto/paired-reader/index.html#notebook",
+    "title": "A paired reader",
+    "section": "Notebook",
+    "text": "Notebook\n\n\n\n\n\n\nWarningUses local resources\n\n\n\nThis notebook uses data in local files, and expects to be run files from a copy of this github repository.\n\n\n\nHTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/paired-reader/index.html#screen-capture",
+    "href": "examples/pluto/paired-reader/index.html#screen-capture",
+    "title": "A paired reader",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/vocab-alignment-latin/index.html#notebook",
+    "href": "examples/pluto/vocab-alignment-latin/index.html#notebook",
+    "title": "Aligning verbal vocabuary in Latin glosses and the Vulgate",
+    "section": "Notebook",
+    "text": "Notebook\nHTML"
+  },
+  {
+    "objectID": "examples/pluto/vocab-alignment-latin/index.html#screen-capture",
+    "href": "examples/pluto/vocab-alignment-latin/index.html#screen-capture",
+    "title": "Aligning verbal vocabuary in Latin glosses and the Vulgate",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/incipit/index.html",
+    "href": "examples/pluto/incipit/index.html",
+    "title": "Navigate by incipit/explicit of Biblical books",
+    "section": "",
+    "text": "View table of contents of all six volumes as a tabular summary or numbered list of items. Each entry lists the page reference where each Biblical book begins and ends. Page references are linked to page images.\n\n\n\n\nHTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)\n\n\n\n\n\n\n\nScreen capture"
+  },
+  {
+    "objectID": "examples/pluto/incipit/index.html#overview",
+    "href": "examples/pluto/incipit/index.html#overview",
+    "title": "Navigate by incipit/explicit of Biblical books",
+    "section": "",
+    "text": "View table of contents of all six volumes as a tabular summary or numbered list of items. Each entry lists the page reference where each Biblical book begins and ends. Page references are linked to page images."
+  },
+  {
+    "objectID": "examples/pluto/incipit/index.html#notebook",
+    "href": "examples/pluto/incipit/index.html#notebook",
+    "title": "Navigate by incipit/explicit of Biblical books",
+    "section": "",
+    "text": "HTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/incipit/index.html#screen-capture",
+    "href": "examples/pluto/incipit/index.html#screen-capture",
+    "title": "Navigate by incipit/explicit of Biblical books",
+    "section": "",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/pluto-about/index.html",
+    "href": "examples/pluto/pluto-about/index.html",
+    "title": "Pluto notebooks",
+    "section": "",
+    "text": "You’ll find plenty of sources to learn about Pluto notebooks online: plutojl.org has lots of material to get you started.\nA few key points to highlight:\n\nYou work with Pluto notebooks in a web browser.\nPluto notebooks are organized in cells.\nPluto notebooks are written in Julia. Each cell is a Julia expression.\nPluto notebooks are reactive. When you change any cell, all cells that depend on it automatically update.\n\nThis design makes Pluto a good fit for exploratory scholarship. The notebooks are valid Julia scripts in plain-text format, so they’re easy to manage with a version control system like git, and easy to share. Pluto notebooks have no technical prerequisites beyond the Julia language and the Pluto package, so it’s easy to run them and reproduce their functionality. The PlutoUI package gives you a selection of widgets for user interaction with a notebook, so it’s easy to invite experimenting with different parameters, and immediately seeing the result of any changes you make."
+  },
+  {
+    "objectID": "examples/pluto/spacing-markers-hebrew/index.html",
+    "href": "examples/pluto/spacing-markers-hebrew/index.html",
+    "title": "Spacing markers in Hebrew text",
+    "section": "",
+    "text": "CautionContent TBA"
+  },
+  {
+    "objectID": "examples/pluto/spacing-markers-hebrew/index.html#overview",
+    "href": "examples/pluto/spacing-markers-hebrew/index.html#overview",
+    "title": "Spacing markers in Hebrew text",
+    "section": "Overview",
+    "text": "Overview"
+  },
+  {
+    "objectID": "examples/pluto/spacing-markers-hebrew/index.html#notebook",
+    "href": "examples/pluto/spacing-markers-hebrew/index.html#notebook",
+    "title": "Spacing markers in Hebrew text",
+    "section": "Notebook",
+    "text": "Notebook\n\n\n\n\n\n\nWarningUses local resources\n\n\n\nThis notebook uses data in local files, and expects to be run files from a copy of this github repository.\n\n\nHTML"
+  },
+  {
+    "objectID": "examples/pluto/spacing-markers-hebrew/index.html#screen-capture",
+    "href": "examples/pluto/spacing-markers-hebrew/index.html#screen-capture",
+    "title": "Spacing markers in Hebrew text",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/toc/index.html",
+    "href": "examples/pluto/toc/index.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Select category of contents (texts, reference materials, other). Sections are listed with links to image of first page in a zoomable/pannable display."
+  },
+  {
+    "objectID": "examples/pluto/toc/index.html#overview",
+    "href": "examples/pluto/toc/index.html#overview",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Select category of contents (texts, reference materials, other). Sections are listed with links to image of first page in a zoomable/pannable display."
+  },
+  {
+    "objectID": "examples/pluto/toc/index.html#notebook",
+    "href": "examples/pluto/toc/index.html#notebook",
+    "title": "Table of contents",
+    "section": "Notebook",
+    "text": "Notebook\n\n\n\n\n\n\nWarningUses local resources\n\n\n\nThis notebook uses data in local files, and expects to be run files from a copy of this github repository.\n\n\n\nHTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/toc/index.html#screen-capture",
+    "href": "examples/pluto/toc/index.html#screen-capture",
+    "title": "Table of contents",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/greek-verbs/index.html",
+    "href": "examples/pluto/greek-verbs/index.html",
+    "title": "Morphology of Greek verbs",
+    "section": "",
+    "text": "Find possible verb forms in a passage of Greek; highlight the tokens in context and list full identification."
+  },
+  {
+    "objectID": "examples/pluto/greek-verbs/index.html#overview",
+    "href": "examples/pluto/greek-verbs/index.html#overview",
+    "title": "Morphology of Greek verbs",
+    "section": "",
+    "text": "Find possible verb forms in a passage of Greek; highlight the tokens in context and list full identification."
+  },
+  {
+    "objectID": "examples/pluto/greek-verbs/index.html#notebook",
+    "href": "examples/pluto/greek-verbs/index.html#notebook",
+    "title": "Morphology of Greek verbs",
+    "section": "Notebook",
+    "text": "Notebook\n\n\n\n\n\n\nWarningUses local resources\n\n\n\nThis notebook uses data in local files, and expects to be run files from a copy of this github repository.\n\n\n\nHTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/greek-verbs/index.html#screen-capture",
+    "href": "examples/pluto/greek-verbs/index.html#screen-capture",
+    "title": "Morphology of Greek verbs",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "presentations/sbl2024/index.html",
+    "href": "presentations/sbl2024/index.html",
+    "title": "Society of Biblical Literature, 2024",
+    "section": "",
+    "text": "Session S25-316: November 25, 2024, 4:00-6:30 (Hilton Bayfront - Aqua 307)\nPresenters: Neel Smith, Asheley Terjanian\nTitle: “A digital Complutensian polyglot Bible”\nSlides (pdf)\nAbstract:\n\nWe present work on a digital incunabulum: a multilingual Bible modelled on an innovative print incunabulum, the Complutensian polyglot of 1520. The Complutensian included numerous aids for “those who do not have a perfect command of (each) language” while pushing the limits of print technology to support novel kinds of scholarly research. Its six volumes supported:\n\ncomparative, multilingual reading of texts\nlemmatization coordinating texts and lexica\nmorpho-syntactic alignment for cross-lingual analysis\n\nOur digital edition builds on automated morphological parsing of canonically citable texts in Greek, Latin and Hebrew to realize similar goals. Like the Complutensian, our edition offers parallel texts of the Masoretic Hebrew Bible, the Latin Vulgate, the Greek Septuagint, and the Aramaic Targum Onkelos. Morphological parsing identifies lexemes with standard identifiers linking analyses to lexica, much as marginal notes for difficult Hebrew words in the Complutensian supply lemmata to a lexicon included in volume 6.\nThe Complutensian draws on a long tradition of glossing commentaries, with interlinear Latin glosses on the text of the Septuagint, and an adjacent Latin gloss for the Targum Onkelos. It also introduces a unique system of symbols to cross reference the Vulgate and the Hebrew text. Anticipating the idea that well-structured digital texts can be reused for multiple purposes, this system makes it possible either to read the Vulgate as a continuous translation, or to use it as a glossing commentary on the Hebrew text.\nWe exploit the morphological richness of Hebrew, Greek, Latin to reach similar results. In each text, we isolate parallel functional units, such as verbal actions. This makes the continuous texts of the digital editions function as a kind of comparative database, similar to the manual indexing of the Complutensian. We can trace lexical parallels, for example. ἐποίησεν, creauit and בָּרָא are easily aligned in Genesis 1.1: how consistently are ποιέω, creo and בָּרָא aligned elsewhere? We can also compare parallel syntactic structures. What does it mean when the Septuagint uses a subjunctive or optative mood to translate a Hebrew text that has no comparable structure? As the editors of the Complutensian explicitly intended, systematic algorithmic collection of these observations enables scholars with different backgrounds to study the multilingual corpus in new ways.\nWe are indexing the contents of the Complutensian to high-resolution images of the copy in the National Library of Spain. Our presentation includes a variety of visualizations coordinating the regions of the image indexed to scholarly instruments on the printed page with digital texts and results of our computational analyses. We hope to stimulate discussion of how digital technologies can help us support work across traditional disciplinary boundaries among interested readers with different backgrounds."
+  },
+  {
+    "objectID": "presentations/sbl2024/index.html#sbl-digital-humanities-in-biblical-early-jewish-and-christian-studies-section",
+    "href": "presentations/sbl2024/index.html#sbl-digital-humanities-in-biblical-early-jewish-and-christian-studies-section",
+    "title": "Society of Biblical Literature, 2024",
+    "section": "",
+    "text": "Session S25-316: November 25, 2024, 4:00-6:30 (Hilton Bayfront - Aqua 307)\nPresenters: Neel Smith, Asheley Terjanian\nTitle: “A digital Complutensian polyglot Bible”\nSlides (pdf)\nAbstract:\n\nWe present work on a digital incunabulum: a multilingual Bible modelled on an innovative print incunabulum, the Complutensian polyglot of 1520. The Complutensian included numerous aids for “those who do not have a perfect command of (each) language” while pushing the limits of print technology to support novel kinds of scholarly research. Its six volumes supported:\n\ncomparative, multilingual reading of texts\nlemmatization coordinating texts and lexica\nmorpho-syntactic alignment for cross-lingual analysis\n\nOur digital edition builds on automated morphological parsing of canonically citable texts in Greek, Latin and Hebrew to realize similar goals. Like the Complutensian, our edition offers parallel texts of the Masoretic Hebrew Bible, the Latin Vulgate, the Greek Septuagint, and the Aramaic Targum Onkelos. Morphological parsing identifies lexemes with standard identifiers linking analyses to lexica, much as marginal notes for difficult Hebrew words in the Complutensian supply lemmata to a lexicon included in volume 6.\nThe Complutensian draws on a long tradition of glossing commentaries, with interlinear Latin glosses on the text of the Septuagint, and an adjacent Latin gloss for the Targum Onkelos. It also introduces a unique system of symbols to cross reference the Vulgate and the Hebrew text. Anticipating the idea that well-structured digital texts can be reused for multiple purposes, this system makes it possible either to read the Vulgate as a continuous translation, or to use it as a glossing commentary on the Hebrew text.\nWe exploit the morphological richness of Hebrew, Greek, Latin to reach similar results. In each text, we isolate parallel functional units, such as verbal actions. This makes the continuous texts of the digital editions function as a kind of comparative database, similar to the manual indexing of the Complutensian. We can trace lexical parallels, for example. ἐποίησεν, creauit and בָּרָא are easily aligned in Genesis 1.1: how consistently are ποιέω, creo and בָּרָא aligned elsewhere? We can also compare parallel syntactic structures. What does it mean when the Septuagint uses a subjunctive or optative mood to translate a Hebrew text that has no comparable structure? As the editors of the Complutensian explicitly intended, systematic algorithmic collection of these observations enables scholars with different backgrounds to study the multilingual corpus in new ways.\nWe are indexing the contents of the Complutensian to high-resolution images of the copy in the National Library of Spain. Our presentation includes a variety of visualizations coordinating the regions of the image indexed to scholarly instruments on the printed page with digital texts and results of our computational analyses. We hope to stimulate discussion of how digital technologies can help us support work across traditional disciplinary boundaries among interested readers with different backgrounds."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A Digital Complutensian Bible",
+    "section": "",
+    "text": "Multilingual reading for all in a digital environment.\n\n\n\nThis project is developing a digital multilingual Bible modelled on the sixteenth-century Complutensian Polyglot. The Complutensian included numerous aids for “those who do not have a perfect command of (each) language”1 while pushing the limits of print technology to support novel kinds of scholarly research.2 Its six volumes supported:\n\ncomparative, multilingual reading of texts\nlemmatization coordinating texts and lexica\nmorpho-syntactic alignment for cross-lingual analysis\n\nWe are implementing the same kinds of functionality digitally, to explore ways we can support the Complutensian’s goals of aiding those without extensive background in the Biblical languages, and facilitating innovative cross-lingual scholarship.\n\n\n\n\nthe original Complutensian Bible\nthe digital resources we’re creating\nthings we’re doing with our digital polyglot\n\n\n\n\n\nAIA/SCS (Philadelphia, January, 2025)\nSociety of Biblical Literature (San Diego, November, 2024)",
+    "crumbs": [
+      "Home",
+      "A Digital Complutensian Bible"
+    ]
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "A Digital Complutensian Bible",
+    "section": "",
+    "text": "This project is developing a digital multilingual Bible modelled on the sixteenth-century Complutensian Polyglot. The Complutensian included numerous aids for “those who do not have a perfect command of (each) language”1 while pushing the limits of print technology to support novel kinds of scholarly research.2 Its six volumes supported:\n\ncomparative, multilingual reading of texts\nlemmatization coordinating texts and lexica\nmorpho-syntactic alignment for cross-lingual analysis\n\nWe are implementing the same kinds of functionality digitally, to explore ways we can support the Complutensian’s goals of aiding those without extensive background in the Biblical languages, and facilitating innovative cross-lingual scholarship.",
+    "crumbs": [
+      "Home",
+      "A Digital Complutensian Bible"
+    ]
+  },
+  {
+    "objectID": "index.html#see-more-about",
+    "href": "index.html#see-more-about",
+    "title": "A Digital Complutensian Bible",
+    "section": "",
+    "text": "the original Complutensian Bible\nthe digital resources we’re creating\nthings we’re doing with our digital polyglot",
+    "crumbs": [
+      "Home",
+      "A Digital Complutensian Bible"
+    ]
+  },
+  {
+    "objectID": "index.html#presentations",
+    "href": "index.html#presentations",
+    "title": "A Digital Complutensian Bible",
+    "section": "",
+    "text": "AIA/SCS (Philadelphia, January, 2025)\nSociety of Biblical Literature (San Diego, November, 2024)",
+    "crumbs": [
+      "Home",
+      "A Digital Complutensian Bible"
+    ]
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "A Digital Complutensian Bible",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIn the words of the editors’ preface: qui non integram linguae cognitionem adepti sunt↩︎\nAgain, this is the editors’ explicit aim: studiosis vtillisimum fore credimus↩︎",
+    "crumbs": [
+      "Home",
+      "A Digital Complutensian Bible"
+    ]
+  },
+  {
+    "objectID": "resources/alignments/index.html",
+    "href": "resources/alignments/index.html",
+    "title": "Verb alignments: precomputed data sets",
+    "section": "",
+    "text": "To simplify exploring relations among the different documents of the Complutensian Bible, we’re precomputing the following data sets and making them available from our github repository."
+  },
+  {
+    "objectID": "resources/alignments/index.html#occurrences-of-verbal-forms-by-lemma",
+    "href": "resources/alignments/index.html#occurrences-of-verbal-forms-by-lemma",
+    "title": "Verb alignments: precomputed data sets",
+    "section": "Occurrences of verbal forms, by lemma",
+    "text": "Occurrences of verbal forms, by lemma\nDelimited-text files recording a passage reference, a lexeme identifier and a label:\n\nGreek verbs\nLatin verbs\nHebrew verbs (from Sefaria)"
+  },
+  {
+    "objectID": "resources/alignments/index.html#counts-of-co-occurrences-of-verbs",
+    "href": "resources/alignments/index.html#counts-of-co-occurrences-of-verbs",
+    "title": "Verb alignments: precomputed data sets",
+    "section": "Counts of co-occurrences of verbs",
+    "text": "Counts of co-occurrences of verbs\nDelimited-text files recording a lemma in the reference text, a lemma in the co-occurring text, and a count.\n\nHebrew Bible\n\nco-occurrences with Vulgate\nco-occurrences with Septuagint\n\n\n\nSeptuagint\n\nco-occurrences with Vulgate\nco-occurrences with Hebrew Bible\n\n\n\nVulgate\n\nco-occurrences with Septuagint\nco-occurrences with Hebrew Bible"
+  },
+  {
+    "objectID": "resources/morphology/index.html",
+    "href": "resources/morphology/index.html",
+    "title": "Morphological data",
+    "section": "",
+    "text": "We are working with two existing sets of data with morphological annotations on the Hebrew Bible.\n\n\nThe Open Scriptures Hebrew Bible project (OSHB) includes manual annotations on everyword of the Hebrew Bible, including a detailed morphological analysis. Lexemes are identified with Strong numbers. The OSHB data set is available on github here.\n\n\nNeel Smith has published OpenScripturesHebrew.jl, a Julia package for working with the OSHB data set. (See the package documentation.)\n\n\n\n\nusing OpenScripturesHebrew\nallwords = tanakh()\n\n\nlength(allwords)\n\n432307\n\n\n\nallwords[3]\n\n(urn = \"urn:cts:compnov:bible.genesis.osh:1.1\", code = \"HVqp3ms\", mtoken = \"בָּרָ֣א\", otoken = \"בָּרָ֣א\", otoken_num = 2, lemma = \"1254 a\")\n\n\n\nallwords[3].mtoken\n\n\"בָּרָ֣א\"\n\n\n\nparseword(allwords[3])\n\nfinite verb: qal perfect third singular masculine\n\n\n\n\n\n\nThe Sefaria project makes its data available through an API documented here. The API includes an option to search Sefaria’s online lexica for articles based on any form of a Hebrew word. Sefaria’s search results include identifiers for the Brown-Driver-Briggs lexicon (among others), which for our morphological anlayses are often more helpful than the Strong identifiers used by OSHB. While the Sefaria queries do not include detailed morphological analysis, it is possible to find part of speech codes in the related data, taken from Strong.\n\n\nThe response time to a query using Sefaria’s API is typically in tenths of a second. While this is perfectly adequate for interactive usage, it is impractical for application to a corpus with more than 400,000 words. (A single pass over the Hebrew Bible would require more than 11 hours to process 400,000 queries × 0.1 second = 40,000 seconds). In practice, automated runs of queries often result in time-out errors after only a few hundred queries. For our morphological analysis therefore, we have compiled a set of static files with Sefaria’s resolution of every verb form to a lemma (dictionary form) and an idenfier in Brown-Driver-Briggs. The files (one for each book of the Hebrew Bible) are in delimited text format following this example:\nurn|form|lemma|bdbid\nurn:cts:compnov:bible.genesis.masoretic_tokens:1.1.2|בָּרָ֣א|בָּרָא|BDB01439\n\n\n\nNeel Smith has published BrownDriverBriggs.jl, a Julia package for working with the Sefaria API’s dynamically. (See the documentation.)\n\n\n\n\nusing BrownDriverBriggs \narticles = bdb(\"בָּרָ֣א\")\n\n6-element Vector{Article}:\n בַּר (BDB01437)\n בַּר² (BDB01438)\n בָּרָא (BDB01439)\n בָּרָא² (BDB01442)\n בַּר³ (BDB01500)\n בַּר⁴ (BDB01501)"
+  },
+  {
+    "objectID": "resources/morphology/index.html#hebrew",
+    "href": "resources/morphology/index.html#hebrew",
+    "title": "Morphological data",
+    "section": "",
+    "text": "We are working with two existing sets of data with morphological annotations on the Hebrew Bible.\n\n\nThe Open Scriptures Hebrew Bible project (OSHB) includes manual annotations on everyword of the Hebrew Bible, including a detailed morphological analysis. Lexemes are identified with Strong numbers. The OSHB data set is available on github here.\n\n\nNeel Smith has published OpenScripturesHebrew.jl, a Julia package for working with the OSHB data set. (See the package documentation.)\n\n\n\n\nusing OpenScripturesHebrew\nallwords = tanakh()\n\n\nlength(allwords)\n\n432307\n\n\n\nallwords[3]\n\n(urn = \"urn:cts:compnov:bible.genesis.osh:1.1\", code = \"HVqp3ms\", mtoken = \"בָּרָ֣א\", otoken = \"בָּרָ֣א\", otoken_num = 2, lemma = \"1254 a\")\n\n\n\nallwords[3].mtoken\n\n\"בָּרָ֣א\"\n\n\n\nparseword(allwords[3])\n\nfinite verb: qal perfect third singular masculine\n\n\n\n\n\n\nThe Sefaria project makes its data available through an API documented here. The API includes an option to search Sefaria’s online lexica for articles based on any form of a Hebrew word. Sefaria’s search results include identifiers for the Brown-Driver-Briggs lexicon (among others), which for our morphological anlayses are often more helpful than the Strong identifiers used by OSHB. While the Sefaria queries do not include detailed morphological analysis, it is possible to find part of speech codes in the related data, taken from Strong.\n\n\nThe response time to a query using Sefaria’s API is typically in tenths of a second. While this is perfectly adequate for interactive usage, it is impractical for application to a corpus with more than 400,000 words. (A single pass over the Hebrew Bible would require more than 11 hours to process 400,000 queries × 0.1 second = 40,000 seconds). In practice, automated runs of queries often result in time-out errors after only a few hundred queries. For our morphological analysis therefore, we have compiled a set of static files with Sefaria’s resolution of every verb form to a lemma (dictionary form) and an idenfier in Brown-Driver-Briggs. The files (one for each book of the Hebrew Bible) are in delimited text format following this example:\nurn|form|lemma|bdbid\nurn:cts:compnov:bible.genesis.masoretic_tokens:1.1.2|בָּרָ֣א|בָּרָא|BDB01439\n\n\n\nNeel Smith has published BrownDriverBriggs.jl, a Julia package for working with the Sefaria API’s dynamically. (See the documentation.)\n\n\n\n\nusing BrownDriverBriggs \narticles = bdb(\"בָּרָ֣א\")\n\n6-element Vector{Article}:\n בַּר (BDB01437)\n בַּר² (BDB01438)\n בָּרָא (BDB01439)\n בָּרָא² (BDB01442)\n בַּר³ (BDB01500)\n בַּר⁴ (BDB01501)"
+  },
+  {
+    "objectID": "resources/morphology/index.html#greek",
+    "href": "resources/morphology/index.html#greek",
+    "title": "Morphological data",
+    "section": "Greek",
+    "text": "Greek\nWe’re using the Kanones system to build Greek parsers tailored to the corpora of the Complutensian’s Greek documents.\nThe current version of the Greek parser for the Septuagint is available at http://shot.holycross.edu/morphology/complutensian-current.cex.\n\nExample of usage\n\nusing Kanones, CitableBase\n#greekurl = \"http://shot.holycross.edu/morphology/complutensian-current.cex\"\n#greekparser = kParser(greekurl, UrlReader)\n\n\n#goodparses = parsetoken(\"ἀγαθός\", greekparser)"
+  },
+  {
+    "objectID": "resources/morphology/index.html#latin",
+    "href": "resources/morphology/index.html#latin",
+    "title": "Morphological data",
+    "section": "Latin",
+    "text": "Latin\nWe’re using the Tabulae system to build Latin parsers tailored to the corpora of the Complutensian’s Latin documents.\nThe current versions of our parsers for Latin documents are available here:\n\nfor the 25-letter orthography of the Vulgate: http://shot.holycross.edu/tabulae/complut-lat25-current.cex\nfor the 23-letter orthography of the Latin glosses: http://shot.holycross.edu/tabulae/complut-lat23-current.cex\n\n\nExample of usage\n\nusing Tabulae\n#url = \"http://shot.holycross.edu/tabulae/complut-lat25-current.cex\"\n#latinparser = tabulaeStringParser(url, UrlReader)\n\n\n#latinparses = parsetoken(\"creavit\", latinparser)"
+  },
+  {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources for a digital Complutensian",
+    "section": "",
+    "text": "images\ncanonically citable texts\nmorphological data\nprecomputed data sets for aligning verb forms"
+  },
+  {
+    "objectID": "resources/index.html#digital-data-sets",
+    "href": "resources/index.html#digital-data-sets",
+    "title": "Resources for a digital Complutensian",
+    "section": "",
+    "text": "images\ncanonically citable texts\nmorphological data\nprecomputed data sets for aligning verb forms"
+  },
+  {
+    "objectID": "resources/index.html#other-resources",
+    "href": "resources/index.html#other-resources",
+    "title": "Resources for a digital Complutensian",
+    "section": "Other resources",
+    "text": "Other resources\n\nfacsimiles\nsome bibliographic notes"
+  },
+  {
+    "objectID": "complutensian/survival/index.html",
+    "href": "complutensian/survival/index.html",
+    "title": "The survival of the Complutensian Bible",
+    "section": "",
+    "text": "The survival of the Complutensian Bible\nShipwreck: (Marcos 2017, 5)\n\n\n\n\n\nReferences\n\nMarcos, Natalio Fernández. 2017. The First Polyglot Bible. Brill. https://brill.com/display/book/edcoll/9789004335028/B9789004335028_002.xml."
+  },
+  {
+    "objectID": "complutensian/index.html",
+    "href": "complutensian/index.html",
+    "title": "The printed Complutensian Bible",
+    "section": "",
+    "text": "TipTip: see images in context\n\n\n\nLearn more about how images are displayed in this guide to the Complutensian Bible.",
+    "crumbs": [
+      "The Original",
+      "The printed Complutensian Bible"
+    ]
+  },
+  {
+    "objectID": "complutensian/index.html#what-was-the-purpose-of-the-complutensian-polyglot-bible",
+    "href": "complutensian/index.html#what-was-the-purpose-of-the-complutensian-polyglot-bible",
+    "title": "The printed Complutensian Bible",
+    "section": "What was the purpose of the Complutensian polyglot Bible?",
+    "text": "What was the purpose of the Complutensian polyglot Bible?\n\nThe editors’ goals",
+    "crumbs": [
+      "The Original",
+      "The printed Complutensian Bible"
+    ]
+  },
+  {
+    "objectID": "complutensian/index.html#what-texts-are-included",
+    "href": "complutensian/index.html#what-texts-are-included",
+    "title": "The printed Complutensian Bible",
+    "section": "What texts are included?",
+    "text": "What texts are included?\n\nThe textual canon",
+    "crumbs": [
+      "The Original",
+      "The printed Complutensian Bible"
+    ]
+  },
+  {
+    "objectID": "complutensian/index.html#how-are-the-six-volumes-organized",
+    "href": "complutensian/index.html#how-are-the-six-volumes-organized",
+    "title": "The printed Complutensian Bible",
+    "section": "How are the six volumes organized?",
+    "text": "How are the six volumes organized?\n\nContents and organization\nReferences:\n\ntitle pages\nprologs\ncolophons\nquire registers\ncomplete collation",
+    "crumbs": [
+      "The Original",
+      "The printed Complutensian Bible"
+    ]
+  },
+  {
+    "objectID": "complutensian/index.html#how-does-a-reader-use-it",
+    "href": "complutensian/index.html#how-does-a-reader-use-it",
+    "title": "The printed Complutensian Bible",
+    "section": "How does a reader use it?",
+    "text": "How does a reader use it?\nMultilingual reading regardless of experience with the languages:\n\nTour of a page (in progress)\n\nReference materials for cutting-edge cross-lingual philology:\n\nCombining indexes and texts for philological research",
+    "crumbs": [
+      "The Original",
+      "The printed Complutensian Bible"
+    ]
+  },
+  {
+    "objectID": "complutensian/index.html#historical-contexts",
+    "href": "complutensian/index.html#historical-contexts",
+    "title": "The printed Complutensian Bible",
+    "section": "Historical contexts",
+    "text": "Historical contexts\n\nWhen was it created? Dating the individual parts of the Complutensian\nHow much did it cost?\nHow many surviving copies can we identify?",
+    "crumbs": [
+      "The Original",
+      "The printed Complutensian Bible"
+    ]
+  },
+  {
+    "objectID": "complutensian/navigation/index.html",
+    "href": "complutensian/navigation/index.html",
+    "title": "Combining indexes and texts for research",
+    "section": "",
+    "text": "The cross-referenced reference materials in the Complutensian Bible enable readers to follow sophisticated philological and literary critical inquiries.",
+    "crumbs": [
+      "The Original",
+      "Combining indexes and texts for research"
+    ]
+  },
+  {
+    "objectID": "complutensian/navigation/index.html#philology",
+    "href": "complutensian/navigation/index.html#philology",
+    "title": "Combining indexes and texts for research",
+    "section": "Philology",
+    "text": "Philology\nWe’ll illustrate how to use the reference material in volume 6 to follow a concept expressed in Latin through passages in the Hebrew text of volumes 1-4.\n\nStep 1: look up a Latin term\nVolume 6 includes a 16-page index of Latin terms, with six dense columns per page. Each column lists aproximately 60 terms: there are approximately 950 entries in the index.\n\n\n\n\n\n\nNote\n\n\n\nThese pages are grouped in a single quaternion labeled A – one of three quires in volume 6 called A! To refer to it unambiguously, we call this quire A-index. Its sequence within the different sections of volume 6 varies: see the discussion of the organization of the contents.\n\n\nLatin terms are listed in alphabetical order on the left side of the column, and one or more numbers is listed on the right. Numbers are separated by a dot if there is more than one. The heading Fo. (folio) on the right side of each column makes it clear that these refer to the numbered folios in the Hebrew-Latin lexicon. This illustration shows the fourth page of the index (page 2 verso of the quire), running alphabetically from Consecratio to Descriptio. Verbs are listed in the infinitive form.\n\n\n\nVolume 6, quire A-index, page 2 verso.\n\n\n\nWe’ll explore the term creare, which appears in the third column of the page. It is indexed to three folios (18, 44 and 141).\n\n\n\nIndex entry for creare: it is indexed to three folios.\n\n\n\n\n\n\n\n\n\nTipTip: see images in context\n\n\n\nImages are linked to pannable/zoomable views\n\n\n\n\nStep 2: look up the indexed folio\nThe bulk of volume 6 is made up of the Hebrew-Latin lexicon. Articles for each Hebrew root are arranged alphabetically in two large columns per page. The headword is first given both in fully pointed Hebrew and in Latin transcription, followed by definitions of differing senses and derivative words, supported by citation of illustrative passages. In the interior and exterior margins, Hebrew terms identify specific derivative formations from the root; Latin terms highlight specific senses.\nTo assist navigating the possibly unfamiliar Hebrew alphabet, the Latin transcriptions of headwords are prominently listed above each column, flanking the Hebrew head letter for this page. The following illustration shows volume 6, quire C, page 6 recto: within ב, the articles running from Bar to bara.\n\n\nVolume 6, quire C, page 6 recto: articles running from Bar to bara with the letter ב.\n\n\n\nAt the top right of each recto, the number of the folio within the lexicon is listed (above, Fo, xviii). This is the hook that lets us get into the lexicon from the index we used in step 1. Scanning the marginal notes, we see creare near the bottom of the inner margin, annotating an article בָּרָ֣א/Bara. For the root sense Creare, fingere, etc., the first illusrtative passage is from Genesis 1, In principio creabuit deus celum et terram.\n\n\nBeginning of article בָּרָ֣א.\n\n\n\n\n\nStep 3: read indexed passages in context\nVolumes 1-4 of the Complutensian Bible cover the entire Christian Old Testament, “now for the first time published in multiple languages,” as the title page to each volume reminds us. Page numbers are unnecessary, since the reader knows the order of Biblical books; chapter numbers within books are clearly set out. Opening Genesis to chapter, we can see the cited passage in its full context. The detail here shows how the Hebrew and Latin texts are kept aligned and glossed with indexing letters, so that the reader can continue explore the relation between the different versions of the text.\n\nAligned Latin and Hebrew text of Genesis 1.1.",
+    "crumbs": [
+      "The Original",
+      "Combining indexes and texts for research"
+    ]
+  },
+  {
+    "objectID": "complutensian/navigation/index.html#exegesis-comparing-passages",
+    "href": "complutensian/navigation/index.html#exegesis-comparing-passages",
+    "title": "Combining indexes and texts for research",
+    "section": "Exegesis: comparing passages",
+    "text": "Exegesis: comparing passages\nThe Greek New Testament is annotated with canonical references to other passages that should be consulted. Chapter 1 of Matthew, for example, concludes with an explicit quotation of “the prophet, who says, ‘Behold a virgin shall conceive…’” The Vulgate text on volume 5, quire A page 1 verso reads\n\nHoc autem totum factum est: vt adimpleret quod dictum est a domino per prophetam dicentem. Ecce virgo in vtero habebit: et pariet filium: et vocabitur nomen eius Emanuel:\n\nAn annotation in the exterior margin points us to the prophetic passage with a canonical reference to Isaiah 7, augmented with a further pointer to section C of the Complutensian’s physical page.\n\n\n\n\n\n\n\n\n\n\nGreek conclusion of Matthew 1\n\nLatin conclusion of Matthew 1\n\nCross reference to Isaiah 7\n\n\n\n\nThis assumes that the reader knows how to find Isaiah in volume 4 of the Complutensian Bible. Turning to chapter 7, we next scan the page for section C. We can easily recognize the corresponding text in both the Vulgate and the Latin glosses on the Septuagint.\n\n\n\n\n\n\n\n\n\nIsaiah 7: Vulgate text.\n\nIsaiah 7: Septuagint text with glossing and marginal cross reference.\n\n\n\n\nGlosses on the Septuagint:\n\necce virgo in vtero accipiet et pariet filium. et vocabis nomen eius emmanuel.\n\nVulgate text:\n\nEcce virgo concipiet et pariet filium et vocabitur nomen eius emanuel.\n\nA reverse link points the reader of Isaiah 7 back to Matthew, chapter 1.",
+    "crumbs": [
+      "The Original",
+      "Combining indexes and texts for research"
+    ]
+  },
+  {
+    "objectID": "complutensian/navigation/index.html#research-cycles",
+    "href": "complutensian/navigation/index.html#research-cycles",
+    "title": "Combining indexes and texts for research",
+    "section": "Research cycles",
+    "text": "Research cycles\nThe cross referencing of passages illustrated in Matthew 1 and Isaiah 7 establish a two-way relationship between those texts: readers approaching either text will be directed to compare the other one.\nThe philological indexing in Volume 6 establishes a cyclical relationship between Latin and Hebrew vocabulary. Indexes allow readers to move from Latin concepts to Hebrew terms in the lexicon to passages cited in the lexicon; following citations to read a passage in context, the basic reading tools of glossing and lemmatization on each page let readers reverse direction, and find Latin glosses on Hebrew, or go from a Hebrew term in a passage to the lexicon.",
+    "crumbs": [
+      "The Original",
+      "Combining indexes and texts for research"
+    ]
+  },
+  {
+    "objectID": "complutensian/images/index.html",
+    "href": "complutensian/images/index.html",
+    "title": "Images",
+    "section": "",
+    "text": "The images included on the linked pages are not screen shots: they are canonical citations that are resolved and embedded in the page when this web site is generated. All images are linked to views where you can see the selected detail highlighted in the context of a full page.",
+    "crumbs": [
+      "The Original",
+      "Images"
+    ]
+  },
+  {
+    "objectID": "complutensian/images/index.html#example",
+    "href": "complutensian/images/index.html#example",
+    "title": "Images",
+    "section": "Example",
+    "text": "Example\nThis URN identifies a region of an image illustrating the label for Chapter 1 of Genesis (the text Ca.i.): urn:cite2:citebne:complutensian.v1:v1p19@0.7920,0.07001,0.03956,0.01611\nWhen that refernence is resolved and embedded in the page, this is the result: \n\nThe embedded image is linked to a pannable/zoomable view of the full page, with the detail of the label Ca.i. highlighted. Try it!",
+    "crumbs": [
+      "The Original",
+      "Images"
+    ]
+  },
+  {
+    "objectID": "complutensian/goals/prologs/index.html",
+    "href": "complutensian/goals/prologs/index.html",
+    "title": "Editorial goals",
+    "section": "",
+    "text": "Editorial goals\nWe don’t need to guess what the editors of the Complutensian Bible intended: they include no fewer than five introductory essays where discussing their goals, and how they designed the Complutensian Bible to achieve those goals.\n\nSummary: five essays from the editors\n\n2 appear only in volume 1: overview of entire program\non reading OT appears in all 4 OT volumes 1-4\ndedication to Pope appears only in first 4\non reading NT appears in 1 and 5.\n\n2 historical surveys\n3 historical documents from key editors in history of Bible"
+  },
+  {
+    "objectID": "complutensian/goals/prologs/reading/index.html",
+    "href": "complutensian/goals/prologs/reading/index.html",
+    "title": "Reading the prologs",
+    "section": "",
+    "text": "first time in multiple languages!\nUt intelligas studiose Lector modum et ordinem:quem in hac veteris testamenti impressione feruauimus: ac inde possis oc libro facile uti\n3 parts to OT, different no. of langg\nin Torah, 3 langg: must have latin for each!\nindexing system\ncanonicity\ndetails page layout in coll etc\n\n\n\n\nstudiosus again in prolog to pope\ndid Greek NT first and at same time lexicon!\nthen the Hebrew dictionary before doing OT Note form of dictionary. multiplex significatio and the index of passags for scholars!\nalso need the proper names thing! (Cf text with vol 5 - identical?) Ordered alphabetically (so in Latin transcription whatever the language) Kind of subtle idea here: proper names don’t have the denotative ambiguity of common nouns so can be expressed equivalently in different scripts\n“Added to/joined to” dictionary - literally in same quire??\nHebrew alphabet and grammar. Grammar based on Hebrew work, only the best sources.\nBest sources for texts in all 3 langg.\n\n\n\n\n\n\n\n\naddressed to studiosi / σπουδαῖοι\nkeep to original language of text. Originally written with no breathing or accent, so we want to keep the original form\nYou can do it even if you haven’t gotten too far!\nStill, we’ll give some help: accent like MG tonos\nNB: this is different from our txt of LXX!\nalso note: we x-index with tiny letters (indexed glossing just like Vulgate to Hebrew of OT)"
+  },
+  {
+    "objectID": "complutensian/goals/prologs/reading/index.html#intro-to-pope",
+    "href": "complutensian/goals/prologs/reading/index.html#intro-to-pope",
+    "title": "Reading the prologs",
+    "section": "",
+    "text": "studiosus again in prolog to pope\ndid Greek NT first and at same time lexicon!\nthen the Hebrew dictionary before doing OT Note form of dictionary. multiplex significatio and the index of passags for scholars!\nalso need the proper names thing! (Cf text with vol 5 - identical?) Ordered alphabetically (so in Latin transcription whatever the language) Kind of subtle idea here: proper names don’t have the denotative ambiguity of common nouns so can be expressed equivalently in different scripts\n“Added to/joined to” dictionary - literally in same quire??\nHebrew alphabet and grammar. Grammar based on Hebrew work, only the best sources.\nBest sources for texts in all 3 langg."
+  },
+  {
+    "objectID": "complutensian/goals/prologs/reading/index.html#intro-to-greek-nt",
+    "href": "complutensian/goals/prologs/reading/index.html#intro-to-greek-nt",
+    "title": "Reading the prologs",
+    "section": "",
+    "text": "addressed to studiosi / σπουδαῖοι\nkeep to original language of text. Originally written with no breathing or accent, so we want to keep the original form\nYou can do it even if you haven’t gotten too far!\nStill, we’ll give some help: accent like MG tonos\nNB: this is different from our txt of LXX!\nalso note: we x-index with tiny letters (indexed glossing just like Vulgate to Hebrew of OT)"
+  },
+  {
+    "objectID": "complutensian/organization/volume6/index.html",
+    "href": "complutensian/organization/volume6/index.html",
+    "title": "Volume 6",
+    "section": "",
+    "text": "It’s wild!"
+  },
+  {
+    "objectID": "complutensian/organization/volume6/index.html#volume-6",
+    "href": "complutensian/organization/volume6/index.html#volume-6",
+    "title": "Volume 6",
+    "section": "Volume 6",
+    "text": "Volume 6\n\ntitle page with address to reader on verso\nhebrew vocab in quires A - FF, final quire FF containing 4 pages with rectos numbered (binion). Colophon to this quire dates it to 17 March, 1515.\nintroduction to Hebrew grammar in quires A - C, final quire C with three pages of content, all rectos identified.\nA single blank page?\nIndex of Latin terms in a single quaternion with rectos labelled A or a 1 - 5.\nInterpretations of Latin names in quires A - D (all ternions)\nSame quire sequence continues with alternate forms of names, a sinqule binion with first recto labeled E .\n\nNotes: blank page after Hebrew grammar shows how guidelines were added? String?"
+  },
+  {
+    "objectID": "complutensian/organization/collation/huntington-diffs.html",
+    "href": "complutensian/organization/collation/huntington-diffs.html",
+    "title": "digitalcomplutensian",
+    "section": "",
+    "text": "In volume 1 quire +:\nBut folios 7 - 8 are flipped from order in Madrid (and others)? These would be bifolios with a guard sheet and title page.\nDifferent content in Madrid: verso to Prolog of Jerome has handwritten text in BNE copy! Huntington has printed text. (This is folio 7 verso in the Huntington copy, 8 verson in BNE copy)\nentire Torah in sequential quires running from a - z, (no j, u), aa - zz and two final quires with special marks. The register on the final recto notes that Omnes sunt terni excepto ultimo qui est quaternus. Final verso is blank but has same red frame for planned spaces as pages with content.\nVol 3 - corrigenda. 2 pages followed by a printed blank with red frames (so a binion) with intial recto identified as a.\nVol 5\nNotes: A ii verso has handwritten variant in margin; A iii recto has interesting example of alignment extending even to word division! (Follow continuation on to A iiii verso)\nNotes: spaces for elaborated caps saved and have regular lc version of letter printed but not replaced in many spots e.g., page alpha 1 of volume 2’s travels of Paul."
+  },
+  {
+    "objectID": "complutensian/organization/collation/huntington-diffs.html#notes-on-huntington-copy",
+    "href": "complutensian/organization/collation/huntington-diffs.html#notes-on-huntington-copy",
+    "title": "digitalcomplutensian",
+    "section": "",
+    "text": "In volume 1 quire +:\nBut folios 7 - 8 are flipped from order in Madrid (and others)? These would be bifolios with a guard sheet and title page.\nDifferent content in Madrid: verso to Prolog of Jerome has handwritten text in BNE copy! Huntington has printed text. (This is folio 7 verso in the Huntington copy, 8 verson in BNE copy)\nentire Torah in sequential quires running from a - z, (no j, u), aa - zz and two final quires with special marks. The register on the final recto notes that Omnes sunt terni excepto ultimo qui est quaternus. Final verso is blank but has same red frame for planned spaces as pages with content.\nVol 3 - corrigenda. 2 pages followed by a printed blank with red frames (so a binion) with intial recto identified as a.\nVol 5\nNotes: A ii verso has handwritten variant in margin; A iii recto has interesting example of alignment extending even to word division! (Follow continuation on to A iiii verso)\nNotes: spaces for elaborated caps saved and have regular lc version of letter printed but not replaced in many spots e.g., page alpha 1 of volume 2’s travels of Paul."
+  },
+  {
+    "objectID": "complutensian/organization/registers/index.html",
+    "href": "complutensian/organization/registers/index.html",
+    "title": "Quire registers",
+    "section": "",
+    "text": "NoteIn progress\n\n\n\nA link will be added here to a complete collation of the Complutensian Bible when that page is complete.\nIn the four volumes covering the Christian Old Testament, the first three include a register of all the quires in the volume. The third volume lists all the books of the Old Testament it contains along with the register of quires; the fourth volume lists only the the books it includes.\nIt is significant that we find nothing comparable in volumes 5 and 6. In addition to the text of the New Testament, Volume 5 has reference materials including a Greek grammar and vocabulary. Volume 6 is entirely comprised of reference materials, including a Hebrew ditionary and introductory grammar. There is no necessary sequence to these reference works (tractactus), so there is no single sequence of quires for all of volume 5 or 6. Instead, we find three different sequences beginning with a in volume 5 and three sequences beginning with A (upper case) in volume 6.",
+    "crumbs": [
+      "The Original",
+      "Quire registers"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/registers/index.html#volume-1",
+    "href": "complutensian/organization/registers/index.html#volume-1",
+    "title": "Quire registers",
+    "section": "Volume 1",
+    "text": "Volume 1\nVolume 1 contains the Pentateuch (or Torah). Its single sequence of 48 quires are identified by letters running through the alphabet twice (a - z, then aa - zz), followed by two further quires identified by typographical symbols used for ligatures in the main text.",
+    "crumbs": [
+      "The Original",
+      "Quire registers"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/registers/index.html#volume-2",
+    "href": "complutensian/organization/registers/index.html#volume-2",
+    "title": "Quire registers",
+    "section": "Volume 2",
+    "text": "Volume 2\nVolume 2 contains single sequence of 43 quires identified by letters running through the alphabet from a - z, then aa - vv. It contains ten books from Joshua to 2 Paralipomenon (2 Chronicles) and the Prayer of Manasseh.1",
+    "crumbs": [
+      "The Original",
+      "Quire registers"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/registers/index.html#volume-3",
+    "href": "complutensian/organization/registers/index.html#volume-3",
+    "title": "Quire registers",
+    "section": "Volume 3",
+    "text": "Volume 3",
+    "crumbs": [
+      "The Original",
+      "Quire registers"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/registers/index.html#volume-4",
+    "href": "complutensian/organization/registers/index.html#volume-4",
+    "title": "Quire registers",
+    "section": "Volume 4",
+    "text": "Volume 4\nVolume 4 has two sequences of quire identifiers. The first runs from a - z and aa - pp. All these quires are ternions except for the final pp which is a binion. There would have been no confusion about the length of quire pp: it shows the regular system of numbering as applied to a binion,2 and ends at a major content break, namely at the completion of Malachi, the last of the twelve minor prophets, signalled with an explicit statement.\n\n\nThen there is a sequence from A - G, again all ternions except for a binion in the final G. It is clear that G is the final quire of the entire volume, since its last folio has the colophon for volumes 1-4 on the same page as a list of books included in the volume.\n\n\nQuires A - G have the three books Maccabees. The separate quire organization suggests that this section of volume 4 in some sense had a different status from the contents of a - pp, comparable to the separate sections of volumes 5 and 6.",
+    "crumbs": [
+      "The Original",
+      "Quire registers"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/registers/index.html#footnotes",
+    "href": "complutensian/organization/registers/index.html#footnotes",
+    "title": "Quire registers",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe complete sequence of books in volume 2 is:\n\nJoshua\nJudges\nRuth\n1 Samuel\n2 Samuel\n1 Kings\n2 Kings\n1 Chronicles (1 Paralipomenon)\n2 Chronicles (2 Paralipomenon)\nPrayer of Manasseh\n\n↩︎\nThe system of numbering gathers is explained in a forthcoming page with the full collation of the Complutensian Bible.↩︎",
+    "crumbs": [
+      "The Original",
+      "Quire registers"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/index.html",
+    "href": "complutensian/organization/index.html",
+    "title": "Contents and organization",
+    "section": "",
+    "text": "The Complutensian Bible is an extraordinarily creative design, mixing many conventions family from manuscript copying with highly innovative experiments exploiting the potential of the still new technology of printing.\nAlthough the Complutensian Bible was organized in six volumes, it is clear from the colophons recording the completion of each major section, as well as from the language of each volume’s title page that Cisneros conceived of the project in three sections:"
+  },
+  {
+    "objectID": "complutensian/organization/index.html#volumes-1-4",
+    "href": "complutensian/organization/index.html#volumes-1-4",
+    "title": "Contents and organization",
+    "section": "Volumes 1-4",
+    "text": "Volumes 1-4\n\nVolume 1: Torah (including Targum Onkelos)\nVolumes 2-4: remainder of Hebrew Bible (following order of books in Vulgate)"
+  },
+  {
+    "objectID": "complutensian/organization/index.html#volume-5-contents",
+    "href": "complutensian/organization/index.html#volume-5-contents",
+    "title": "Contents and organization",
+    "section": "Volume 5: contents",
+    "text": "Volume 5: contents\n\nText of New Testament (with Pauline prefaces)\nGreek grammar\nGreek vocabulary\netymologies of proper names\njourneys of Paul"
+  },
+  {
+    "objectID": "complutensian/organization/index.html#volume-6-contents",
+    "href": "complutensian/organization/index.html#volume-6-contents",
+    "title": "Contents and organization",
+    "section": "Volume 6: contents",
+    "text": "Volume 6: contents\n\nHebrew lexicon\nHebrew grammar\nReverse index of Latin words to the Hebrew lexicon\nAlternate forms of names\nEtymologies of names\n\nVolume 6: quire analysis\n\nThe quire registers:\n\nvol 1\nvol 2\nvol 3\n\nThe colophons:\n\nvol 4\nvol 5: MM 7 verso\nvol 6"
+  },
+  {
+    "objectID": "complutensian/organization/index.html#respect-for-greek-and-hebrew-texts",
+    "href": "complutensian/organization/index.html#respect-for-greek-and-hebrew-texts",
+    "title": "Contents and organization",
+    "section": "Respect for Greek and Hebrew texts",
+    "text": "Respect for Greek and Hebrew texts\nNote that Third Maccabees is not in the Vulgate"
+  },
+  {
+    "objectID": "complutensian/organization/index.html#collation",
+    "href": "complutensian/organization/index.html#collation",
+    "title": "Contents and organization",
+    "section": "Collation",
+    "text": "Collation\nThe registers\nSee it"
+  },
+  {
+    "objectID": "complutensian/organization/index.html#footnotes",
+    "href": "complutensian/organization/index.html#footnotes",
+    "title": "Contents and organization",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nPart 1!↩︎\nNT↩︎\nyes, it’s really the lexicon↩︎"
+  },
+  {
+    "objectID": "background/index.html",
+    "href": "background/index.html",
+    "title": "Background to the project",
+    "section": "",
+    "text": "The Classics Department at Holy Cross, where we work, has expanded its scope beyond the its traditional focus on the Greek and Roman world. Majors may now choose to work in any two of the languages offered in the department; in the fall of 2024, this includes Hebrew as well as Greek and Latin. This exciting development raises new questions for us. Since we can no longer assume that everyone is studying the same languages, can we build a welcoming scholarly community where that diversity of experience is an asset?\nThe editors of the Complutensian Bible were deeply committed to the idea of multilingual reading, for all audiences. To achieve this, they creatively incorporated traditional elements of manuscript design with innovative features only possible in print. They explicitly aimed at supporting multilingual reading both for newcomers to the language, and for scholars engaged in innovative cross-language research\nWe share this goal. By studying the innovative design of the Complutensian Bible and digitally replicating its functionality, we are exploring how we can facilitate multilingual reading for all in a digital environment."
+  },
+  {
+    "objectID": "background/index.html#motivation-and-goals",
+    "href": "background/index.html#motivation-and-goals",
+    "title": "Background to the project",
+    "section": "",
+    "text": "The Classics Department at Holy Cross, where we work, has expanded its scope beyond the its traditional focus on the Greek and Roman world. Majors may now choose to work in any two of the languages offered in the department; in the fall of 2024, this includes Hebrew as well as Greek and Latin. This exciting development raises new questions for us. Since we can no longer assume that everyone is studying the same languages, can we build a welcoming scholarly community where that diversity of experience is an asset?\nThe editors of the Complutensian Bible were deeply committed to the idea of multilingual reading, for all audiences. To achieve this, they creatively incorporated traditional elements of manuscript design with innovative features only possible in print. They explicitly aimed at supporting multilingual reading both for newcomers to the language, and for scholars engaged in innovative cross-language research\nWe share this goal. By studying the innovative design of the Complutensian Bible and digitally replicating its functionality, we are exploring how we can facilitate multilingual reading for all in a digital environment."
+  },
+  {
+    "objectID": "complutensian/organization/prologs/index.html",
+    "href": "complutensian/organization/prologs/index.html",
+    "title": "Prefatory material",
+    "section": "",
+    "text": "Note\n\n\n\nThe contents of this prefatory material are discussed on a forthcoming page of this web site.\n\n\nLinks are to illustrations in the Madrid copy of the Complutensian Bible.\n\n\n\nDedication to Pope Leo X\n\nvolume 1: quire + (initialquire), page 2 recto\nvolume 2: quire title (initialquire), page 1 verso\nvolume 3: quire aaa (initialquire), page 1 verso\nvolume 4: quire a (initial quire), page 1 verso\n\n\nTo the reader, on reading the Old Testament.\n\nvolume 1: quire + (initialquire), page 2 verso\nvolume 2: quire prolog, page 1 recto1\nvolume 3: quire aaa (initialquire), page 2 recto\n\nvolume 4: quire a (initial quire), page 2 recto\n\nFinding roots of Hebrew words.\n\nvolume 1: quire + (initialquire), page 3 recto\n\nProlog to the Greek New Testament.\n\nvolume 1: quire + (initialquire), page 4 recto\nvolume 5: quire ‘a-preface’ (initial quire), page 2 recto (Greek)\nvolume 5: quire ‘a-preface’ (initial quire), page 2 verso (Latin)\n\nProlog to Hebrew and Aramaic dictionary.\n\nvolume 1 quire + (initialquire), pages 4 recto-4 verso\nvolume 6 maybe 1 verso\n\n\n\n\n\n\nPapal authorization\n\nvolume 1, page 7 verso of the initial folio. In the Madrid copy, this page was initially blank; the first statement of authorization has been added by hand. A later printing seen in the Huntington Library copy includes both the original statement of authorization and a second statement following Cisneros’ death.\n\n\n\n\n\n\nNote on translations. Inicipit Notandum: quod translatores et interpretes bibliae multi fuerunt\n\nvolume 1 vol1_+4v-vol1+_5r\n\nHow to understand sacred scripture. Incipit: Modi intelligendi sacram scripturam. Notandum: quod omnis sacra scriptura quadriformi ratione distinguitur\n\nvolume 1 vol1_+_5r\n\n\n\n\n\n\nLetter of Jerome to Paulinus (letter 53)\n\nvolume 1 vol1_+5r-vol1+_6v\n\nLetter of Eusebius to Carpianus\n\nvolume 5 vol5_a-preface_3r\n\nLetter of Jerome to Pope Damasus\n\nvolume 5 vol5_a-preface_3v :",
+    "crumbs": [
+      "The Original",
+      "Prefatory material"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/prologs/index.html#the-five-editorial-prefaces",
+    "href": "complutensian/organization/prologs/index.html#the-five-editorial-prefaces",
+    "title": "Prefatory material",
+    "section": "",
+    "text": "Dedication to Pope Leo X\n\nvolume 1: quire + (initialquire), page 2 recto\nvolume 2: quire title (initialquire), page 1 verso\nvolume 3: quire aaa (initialquire), page 1 verso\nvolume 4: quire a (initial quire), page 1 verso\n\n\nTo the reader, on reading the Old Testament.\n\nvolume 1: quire + (initialquire), page 2 verso\nvolume 2: quire prolog, page 1 recto1\nvolume 3: quire aaa (initialquire), page 2 recto\n\nvolume 4: quire a (initial quire), page 2 recto\n\nFinding roots of Hebrew words.\n\nvolume 1: quire + (initialquire), page 3 recto\n\nProlog to the Greek New Testament.\n\nvolume 1: quire + (initialquire), page 4 recto\nvolume 5: quire ‘a-preface’ (initial quire), page 2 recto (Greek)\nvolume 5: quire ‘a-preface’ (initial quire), page 2 verso (Latin)\n\nProlog to Hebrew and Aramaic dictionary.\n\nvolume 1 quire + (initialquire), pages 4 recto-4 verso\nvolume 6 maybe 1 verso",
+    "crumbs": [
+      "The Original",
+      "Prefatory material"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/prologs/index.html#papal-authorization",
+    "href": "complutensian/organization/prologs/index.html#papal-authorization",
+    "title": "Prefatory material",
+    "section": "",
+    "text": "Papal authorization\n\nvolume 1, page 7 verso of the initial folio. In the Madrid copy, this page was initially blank; the first statement of authorization has been added by hand. A later printing seen in the Huntington Library copy includes both the original statement of authorization and a second statement following Cisneros’ death.",
+    "crumbs": [
+      "The Original",
+      "Prefatory material"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/prologs/index.html#prefatory-material-reproduced-from-other-incunabula",
+    "href": "complutensian/organization/prologs/index.html#prefatory-material-reproduced-from-other-incunabula",
+    "title": "Prefatory material",
+    "section": "",
+    "text": "Note on translations. Inicipit Notandum: quod translatores et interpretes bibliae multi fuerunt\n\nvolume 1 vol1_+4v-vol1+_5r\n\nHow to understand sacred scripture. Incipit: Modi intelligendi sacram scripturam. Notandum: quod omnis sacra scriptura quadriformi ratione distinguitur\n\nvolume 1 vol1_+_5r",
+    "crumbs": [
+      "The Original",
+      "Prefatory material"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/prologs/index.html#historical-documents",
+    "href": "complutensian/organization/prologs/index.html#historical-documents",
+    "title": "Prefatory material",
+    "section": "",
+    "text": "Letter of Jerome to Paulinus (letter 53)\n\nvolume 1 vol1_+5r-vol1+_6v\n\nLetter of Eusebius to Carpianus\n\nvolume 5 vol5_a-preface_3r\n\nLetter of Jerome to Pope Damasus\n\nvolume 5 vol5_a-preface_3v :",
+    "crumbs": [
+      "The Original",
+      "Prefatory material"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/prologs/index.html#footnotes",
+    "href": "complutensian/organization/prologs/index.html#footnotes",
+    "title": "Prefatory material",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIn volume 2, the title page and the prolog to the reader are each single sheets that have been tipped in. In the Madrid copy, the address to the reader is mistakenly placed between the first and second quires of the book of Joshua (quires a and b).↩︎",
+    "crumbs": [
+      "The Original",
+      "Prefatory material"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/colophons/index.html",
+    "href": "complutensian/organization/colophons/index.html",
+    "title": "Colophons",
+    "section": "",
+    "text": "Dated colophons mark the ends of the three major sections of the work: the end of the multilingual Old Testament in volume 4, the New Testament in volume 5, and the Hebrew dictionary in volume 6.",
+    "crumbs": [
+      "The Original",
+      "Colophons"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/colophons/index.html#the-colophons-in-the-madrid-copy",
+    "href": "complutensian/organization/colophons/index.html#the-colophons-in-the-madrid-copy",
+    "title": "Colophons",
+    "section": "The colophons in the Madrid copy",
+    "text": "The colophons in the Madrid copy\n\n\n\n\n\n\nVolume\nPage\nColophon\nText\nDate\n\n\n4: conclusion of Old Testament\nquire G, page 4 recto\n\nExplicit quarta et vltima pars totius veteris testamenti hebraico grecoque et latino idiomate nunc primum impressa in hac preclarissima Complutensi vniuersitate. De mandato ac sumptibus Reuernendissimi in christo patris et domini: domini. F. Francisci Ximenez de Cisneros tituli Sancte Balbine sacro sancte Romane ecclesie presbyteri Cardinalis Hispanie Archiepiscopi Toletani et hispaniarum primatis : ac regnorum castelle Archicancellarii. Industria et solertia honorabilis vivi Arnaldi Guillelmi de Brocario artis impressorie Magistri. Anno Domni Millessimo quingentesimo decimo septimo. mensis Iulii die decimo.\nJuly 10, 1517\n\n\n5: New Testament\nquire MM, page 7 verso\n\nAd perpetuam laudem et gloriam dei et domini nostri iesu christi hoc sacro sanctum opus noui testamenti et libri vite grecis latinisque characteribus nouiter impressum atque studiosissime emendatum: felici fine absolutum est in hac preclarissima Complutensi vniuersitate: de mandato et sumptibus Reuerendissimi in christo patris et illustrissimi domini domini fratris Francisci Ximenez de Cisneros tituli sancte Balbine sancte Romane eccl'ie presbyteri Cardinalis hispanie Archiepi. toletani et Hispaniarum primatis ac regnorum castelle archiecancellarii: industria et solertia honorabilis viri Arnaldi guilielmi de Brocario artis impressorie magistri. Anno domini Millesimo quingentesimo decimo quarto. Mensis ianuarii die decimo.\nJanuary 10, 1514\n\n\n6: reference works\nquire FF, page 4 recto\n\nExplicit vocabularium hebraicum totius veteris testamenti cum omnibus dictionibus chaldaicis in eodem veteri testamento contentis: nouiter impressum in hac preclarissima Complutensi vniuersitate. De mandato ac sumptibus Reuerendissimi in christo patris et domini: domini F. Francisci Ximenes de Cisneros tituli Sancte Balbine sacro sancte Romane ecclesie presbyteri Cardinalis Hispanie Archiepiscopi Toletani et hispaniarum primatis: ac regnorum castelle Archicancellarii. Industria et solertia honorabilis vivi Arnaldi Guilielmi de Brocario artis impressorie Magistri. Anno Domini Millesimo quingentesimo decmo quinto. mensis Marcii die decima septima.\nMarch 17, 1515",
+    "crumbs": [
+      "The Original",
+      "Colophons"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/titlepages/index.html",
+    "href": "complutensian/organization/titlepages/index.html",
+    "title": "Title pages",
+    "section": "",
+    "text": "Volume\nTitle page\ntext\n\n\n1\n\nVetus testamentum multiplici lingua nunc primo impressum. Et imprimis Pentateuchus Hebraico Greco atque Chaldaico idiomate. Adiuncta unicuique sua latina interpretatione.\n\n\n2\n\nSecunda pars Veteris testamenti Hebraico Grecoque idiomate nunc primum impressa: adiuncta utrique sua latina interpretatione\n\n\n3\n\nTertia pars Veteris testamenti Hebraico Grecoque idiomate nunc primum impressa:adiuncta utrique sua latina interpretatione\n\n\n4\n\nQuarta pars Veteris testamenti Hebraico Grecoque idiomate nunc primum impressa:adiuncta utrique sua latina interpretatione\n\n\n5\n\nNouum testamentum grece et latine in academia complutensi nouiter impressum.\n\n\n6\n\nVocabularium hebraicum atque chaldaicum totius veteris testamenti cum aliis tractatibus prout infra in prefatione continetur in academia complutensi nouiter impressum.\n\n\n\n\n\n\n\n\n\n\n\nTipTip: see images in context\n\n\n\nImages are linked to full-page views.",
+    "crumbs": [
+      "The Original",
+      "Title pages"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/titlepages/index.html#titling-text-of-each-volume",
+    "href": "complutensian/organization/titlepages/index.html#titling-text-of-each-volume",
+    "title": "Title pages",
+    "section": "",
+    "text": "Volume\nTitle page\ntext\n\n\n1\n\nVetus testamentum multiplici lingua nunc primo impressum. Et imprimis Pentateuchus Hebraico Greco atque Chaldaico idiomate. Adiuncta unicuique sua latina interpretatione.\n\n\n2\n\nSecunda pars Veteris testamenti Hebraico Grecoque idiomate nunc primum impressa: adiuncta utrique sua latina interpretatione\n\n\n3\n\nTertia pars Veteris testamenti Hebraico Grecoque idiomate nunc primum impressa:adiuncta utrique sua latina interpretatione\n\n\n4\n\nQuarta pars Veteris testamenti Hebraico Grecoque idiomate nunc primum impressa:adiuncta utrique sua latina interpretatione\n\n\n5\n\nNouum testamentum grece et latine in academia complutensi nouiter impressum.\n\n\n6\n\nVocabularium hebraicum atque chaldaicum totius veteris testamenti cum aliis tractatibus prout infra in prefatione continetur in academia complutensi nouiter impressum.\n\n\n\n\n\n\n\n\n\n\n\nTipTip: see images in context\n\n\n\nImages are linked to full-page views.",
+    "crumbs": [
+      "The Original",
+      "Title pages"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/titlepages/index.html#relation-of-title-page-to-the-rest-of-the-volume",
+    "href": "complutensian/organization/titlepages/index.html#relation-of-title-page-to-the-rest-of-the-volume",
+    "title": "Title pages",
+    "section": "Relation of title page to the rest of the volume",
+    "text": "Relation of title page to the rest of the volume\nIn volumes 3 and 4, the title page begins the first quire listed in the quire register. In volumes 1 and 5, it appears in a separate, unlisted quire (+ in volume 1, a in volume 5). In volumes 2 and 6, the title page is printed as a single, separate sheet.\n\nFirst page of an irregular gather labelled +; 7 pages in length, with prefatory material.\nA single page, with address to to Pope Leo X on verso.[^MadridVol2] (Identifier for this quire in our digital data: title)\nFirst page of a regular ternion aaa that includes prefatory material, with the text of Ezra beginning on page 3 recto.\nFirst page of a regular ternion a that includes prefatory material, with the text of Isaiah beginning on page 3 recto.\nFirst page of a binion labelled a (lower case) with introductory material for the New Testament.\nA single page, with address to to Pope Leo X on verso. (Identifier for this quire in our digital data: title)\n\n\n\n\n\n\n\nTipSee full collation\n\n\n\nSee the complete collation of the Madrid copy for more information about the relation of the title page to the rest of the volume.",
+    "crumbs": [
+      "The Original",
+      "Title pages"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/collation/index.html",
+    "href": "complutensian/organization/collation/index.html",
+    "title": "Collation",
+    "section": "",
+    "text": "The standard quire of the Complutensian Bible was a ternion, or gather of three bifolios. A series of quires is identified by sequential letters on the first folio of each quire.1 Folios within each quire are then numbered: a regular ternion would have folios from a 1 through a 6, for example.2 When a volume has more than one series of quires, the quire identifiers tell us nothing about the relative sequence of series, and we have to look to other evidence to determine the intended order of pages. Each of the six volumes has a lavish title page. These are always bound as the first page of the volume, whether they are printed as part of a larger quire or as an individual page.\nWe can apply this understanding of the Complutensian Bible to collate the Madrid copy from its digital photographs. Our project github repository includes a Julia script that computes a model for each volume, and writes the results to delimited-text files. The summary tables embedded in this page below are generated from the same code.\n\n\n\n\n\n\nTipExplore the quire structure interactively\n\n\n\nUse the browse-codex.jl Pluto notebook to explore the Madrid copy of the Complutensian Bible by its quire organization.\n\n\n\n\nPart 1 of the Complutensian Bible is the multilingual Old Testament, published in volumes 1 - 4. Volumes 1, 2 and 3 include a register of quires at the end of the volume that explicitly identifies the sequencing of quires for the volume; in volume 4, the sequence of quires is implied instead by a list giving the sequence of Old Testament books contained in that volume. The collation we present here for the Madrid copy therefore should apply to all copies, apart from material added in later printings.3\n\n\n\n\n\n\nQuire sequences\nContents\nNotes\n\n\n+\nTitle page and prologs\n7 pages of content; title page implicitly numbered + ii\n\n\na, b, c, d, e, f, g, h, j, k, l, m, n, o, p, q, r, s, t, v, x, y, z, aa, bb, cc, dd, ee, ff, gg, hh, jj, kk, ll, mm, nn, oo, pp, qq, rr, ss, tt, vv, xx, yy, zz, et, con\nPentateuch (Torah)\nAll ternions except for con, a quaternion.\n\n\n\n\n\nNotes\n\nThe initial quire + appears to be a quaternion that included a blank bifolio functioning as guard sheets.4\nLater printings include a binion with 2 bifolios of corrigenda, identified as a quire a. In the Huntington Library copy, this binion follows the title page and precedes the quire a with the first book of Genesis.\nAfter reaching the end of the doubled alphabet at zz, two final quires are identified with typographic ligatures for et and con.\n\nPenultimate quire (ternion)Final quire (quaternion)Quire identifier: doubled ligature for etQuire identifier: doubled ligature for con\nPrinting errors\n\nQuire ee: has only five folios. The first three are numbered 1, 3 , 4.\nQuire x: both the first and second folios are labelled as folio 2.\n\n\n\n\n\n\n\n\nQuires\nContents\nNotes\n\n\ntitle\nTitle page and prolog\nbinion?\n\n\na, b, c, d, e, f, g, h, j, k, l, m, n, o, p, q, r, s, t, v, x, y, z, aa, bb, cc, dd, ee, ff, gg, hh, jj, kk, ll, mm, nn, oo, pp, qq, rr, ss, tt, vv\nJoshua - Paralipomenon\nAll ternions except vv, a binion\n\n\n\n\n\n\nThe title page followed by 3 pages of prefatory material; presumably this formed a binion.5\nAs the quire register notes, all the quires of the main series are ternions except for vv which is a binion.\nLater printings include corrigenda in four pages, with the first recto labelled a.\n\nPrinting errors\n\nQuire rr: first and second folios both identified as folio 2.\n\n\n\n\n\n\n\n\nQuires\nContents\nNotes\n\n\naaa, bbb, ccc, ddd, eee\nPrefatory material, Ezra - Nehemiah\nTernions except for eee, a binion.\n\n\nAaa, Bbb, Ccc, Ddd, Eee, Fff, Ggg, Hhh, Iii\nTobias - Job\nTernions except for Ccc and Iii, both binions.\n\n\na, b, c, d, e, f, g, h, j, k, l, m, n, o, p\nPsalms - Songs\nTernions except for p, a quaternion.\n\n\nA, B, C, D, E, F\nWisdom - **Ecclesiasticus*\nTernions except for F, a binion\n\n\n\n\n\nNotes\n\nJob ends on Iii 4 recto; significantly, Jerome’s preface to the Psalms appears on Iii 4 verso. It must therefore be followed by the text of the Psalms, even though they begin an independent quire series starting from a.\nlater printings have 2 pages of corrigenda with intial recto identified as a.\n\n\n\n\n\n\n\n\nQuires\nContents\nNotes\n\n\na, b, c, d, e, f, g, h, j, k, l, m, n, o, p, q, r, s, t, v, x, y, z, aa, bb, cc, dd, ee, ff, gg, hh, jj, kk, ll, mm, nn, oo\nPrefatory material, then Isaiah - Malachi\nTernions except for pp, a binion.\n\n\nA, B, C, D, E, F, G\n1 Maccabees - 3 Maccabees\nTernions except for G, a binion.\n\n\n\n\n\nNotes\n\nlater printings have 2 folios of corrigenda with intial recto identified as a.\n\nPrinting errors\n\nquire F: second and third folios are both labelled 3.\n\n\n\n\n\nVolumes 5 and 6 are different. They include reference materials (lexica, grammars, indices…) that have no inherent sequential relationship. Each reference instrument (or tractatus, to use the prolog’s term) has its own quire series, and we are free to arrange the various series in any order we choose.\n\n\n\n\n\n\nQuires\nContents\nNotes\n\n\na\nPrefatory material\nQuaternion\n\n\nA, B, C, D, E, F, G, H, J, K, L, M, N, O, P, Q\nGospels\nTernions\n\n\nα\nTravels of Paul\nTernion\n\n\nR, S, T, V, X, Y, Z, AA, BB, CC, DD, EE, FF, GG, HH, JJ, KK, LL, MM\nRemainder of New Testament\nTernions except MM, a quaternion\n\n\na\nExplanations of proper names\nA single gather of 10 bifolios\n\n\na, b, c, d, e, f\nIntrodcution to Greek with vocabulary\nTernions except g, an irregular gather of three folios\n\n\n\n\n\n\n\n\n\n\n\n\nQuires\nContents\nNotes\n\n\ntitle\nTitle page and prolog\nA single page\n\n\nA, B, C, D, E, F, G, H, J, K, L, M, N, O, P, Q, R, S, T, V, X, Y, Z, AA, BB, CC, DD, EE, FF\nHebrew lexicon\nTernions except for FF, a binion\n\n\nA\nFirst quire of series with explanations of proper names\nTernion\n\n\nA\nThesaurus of Latin -&gt; Hebrew concepts\nQuaternion\n\n\nB, C, D, E\nRemaining quires with explanations of proper names\nTernions except for E, a single bifolio sheet\n\n\nA, B, C\nHebrew grammar\nThree folios of content\n\n\n\n\n\nNotes\n\nThe prolog on the verso of the title page is the same introducing to using the Hebrew and Aramaic dictionaries that is printed in volume 1 beginning on quire +,page 4 recto.",
+    "crumbs": [
+      "The Original",
+      "Collation"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/collation/index.html#quire-organization-of-the-printed-complutensian-bible",
+    "href": "complutensian/organization/collation/index.html#quire-organization-of-the-printed-complutensian-bible",
+    "title": "Collation",
+    "section": "",
+    "text": "The standard quire of the Complutensian Bible was a ternion, or gather of three bifolios. A series of quires is identified by sequential letters on the first folio of each quire.1 Folios within each quire are then numbered: a regular ternion would have folios from a 1 through a 6, for example.2 When a volume has more than one series of quires, the quire identifiers tell us nothing about the relative sequence of series, and we have to look to other evidence to determine the intended order of pages. Each of the six volumes has a lavish title page. These are always bound as the first page of the volume, whether they are printed as part of a larger quire or as an individual page.\nWe can apply this understanding of the Complutensian Bible to collate the Madrid copy from its digital photographs. Our project github repository includes a Julia script that computes a model for each volume, and writes the results to delimited-text files. The summary tables embedded in this page below are generated from the same code.\n\n\n\n\n\n\nTipExplore the quire structure interactively\n\n\n\nUse the browse-codex.jl Pluto notebook to explore the Madrid copy of the Complutensian Bible by its quire organization.\n\n\n\n\nPart 1 of the Complutensian Bible is the multilingual Old Testament, published in volumes 1 - 4. Volumes 1, 2 and 3 include a register of quires at the end of the volume that explicitly identifies the sequencing of quires for the volume; in volume 4, the sequence of quires is implied instead by a list giving the sequence of Old Testament books contained in that volume. The collation we present here for the Madrid copy therefore should apply to all copies, apart from material added in later printings.3\n\n\n\n\n\n\nQuire sequences\nContents\nNotes\n\n\n+\nTitle page and prologs\n7 pages of content; title page implicitly numbered + ii\n\n\na, b, c, d, e, f, g, h, j, k, l, m, n, o, p, q, r, s, t, v, x, y, z, aa, bb, cc, dd, ee, ff, gg, hh, jj, kk, ll, mm, nn, oo, pp, qq, rr, ss, tt, vv, xx, yy, zz, et, con\nPentateuch (Torah)\nAll ternions except for con, a quaternion.\n\n\n\n\n\nNotes\n\nThe initial quire + appears to be a quaternion that included a blank bifolio functioning as guard sheets.4\nLater printings include a binion with 2 bifolios of corrigenda, identified as a quire a. In the Huntington Library copy, this binion follows the title page and precedes the quire a with the first book of Genesis.\nAfter reaching the end of the doubled alphabet at zz, two final quires are identified with typographic ligatures for et and con.\n\nPenultimate quire (ternion)Final quire (quaternion)Quire identifier: doubled ligature for etQuire identifier: doubled ligature for con\nPrinting errors\n\nQuire ee: has only five folios. The first three are numbered 1, 3 , 4.\nQuire x: both the first and second folios are labelled as folio 2.\n\n\n\n\n\n\n\n\nQuires\nContents\nNotes\n\n\ntitle\nTitle page and prolog\nbinion?\n\n\na, b, c, d, e, f, g, h, j, k, l, m, n, o, p, q, r, s, t, v, x, y, z, aa, bb, cc, dd, ee, ff, gg, hh, jj, kk, ll, mm, nn, oo, pp, qq, rr, ss, tt, vv\nJoshua - Paralipomenon\nAll ternions except vv, a binion\n\n\n\n\n\n\nThe title page followed by 3 pages of prefatory material; presumably this formed a binion.5\nAs the quire register notes, all the quires of the main series are ternions except for vv which is a binion.\nLater printings include corrigenda in four pages, with the first recto labelled a.\n\nPrinting errors\n\nQuire rr: first and second folios both identified as folio 2.\n\n\n\n\n\n\n\n\nQuires\nContents\nNotes\n\n\naaa, bbb, ccc, ddd, eee\nPrefatory material, Ezra - Nehemiah\nTernions except for eee, a binion.\n\n\nAaa, Bbb, Ccc, Ddd, Eee, Fff, Ggg, Hhh, Iii\nTobias - Job\nTernions except for Ccc and Iii, both binions.\n\n\na, b, c, d, e, f, g, h, j, k, l, m, n, o, p\nPsalms - Songs\nTernions except for p, a quaternion.\n\n\nA, B, C, D, E, F\nWisdom - **Ecclesiasticus*\nTernions except for F, a binion\n\n\n\n\n\nNotes\n\nJob ends on Iii 4 recto; significantly, Jerome’s preface to the Psalms appears on Iii 4 verso. It must therefore be followed by the text of the Psalms, even though they begin an independent quire series starting from a.\nlater printings have 2 pages of corrigenda with intial recto identified as a.\n\n\n\n\n\n\n\n\nQuires\nContents\nNotes\n\n\na, b, c, d, e, f, g, h, j, k, l, m, n, o, p, q, r, s, t, v, x, y, z, aa, bb, cc, dd, ee, ff, gg, hh, jj, kk, ll, mm, nn, oo\nPrefatory material, then Isaiah - Malachi\nTernions except for pp, a binion.\n\n\nA, B, C, D, E, F, G\n1 Maccabees - 3 Maccabees\nTernions except for G, a binion.\n\n\n\n\n\nNotes\n\nlater printings have 2 folios of corrigenda with intial recto identified as a.\n\nPrinting errors\n\nquire F: second and third folios are both labelled 3.\n\n\n\n\n\nVolumes 5 and 6 are different. They include reference materials (lexica, grammars, indices…) that have no inherent sequential relationship. Each reference instrument (or tractatus, to use the prolog’s term) has its own quire series, and we are free to arrange the various series in any order we choose.\n\n\n\n\n\n\nQuires\nContents\nNotes\n\n\na\nPrefatory material\nQuaternion\n\n\nA, B, C, D, E, F, G, H, J, K, L, M, N, O, P, Q\nGospels\nTernions\n\n\nα\nTravels of Paul\nTernion\n\n\nR, S, T, V, X, Y, Z, AA, BB, CC, DD, EE, FF, GG, HH, JJ, KK, LL, MM\nRemainder of New Testament\nTernions except MM, a quaternion\n\n\na\nExplanations of proper names\nA single gather of 10 bifolios\n\n\na, b, c, d, e, f\nIntrodcution to Greek with vocabulary\nTernions except g, an irregular gather of three folios\n\n\n\n\n\n\n\n\n\n\n\n\nQuires\nContents\nNotes\n\n\ntitle\nTitle page and prolog\nA single page\n\n\nA, B, C, D, E, F, G, H, J, K, L, M, N, O, P, Q, R, S, T, V, X, Y, Z, AA, BB, CC, DD, EE, FF\nHebrew lexicon\nTernions except for FF, a binion\n\n\nA\nFirst quire of series with explanations of proper names\nTernion\n\n\nA\nThesaurus of Latin -&gt; Hebrew concepts\nQuaternion\n\n\nB, C, D, E\nRemaining quires with explanations of proper names\nTernions except for E, a single bifolio sheet\n\n\nA, B, C\nHebrew grammar\nThree folios of content\n\n\n\n\n\nNotes\n\nThe prolog on the verso of the title page is the same introducing to using the Hebrew and Aramaic dictionaries that is printed in volume 1 beginning on quire +,page 4 recto.",
+    "crumbs": [
+      "The Original",
+      "Collation"
+    ]
+  },
+  {
+    "objectID": "complutensian/organization/collation/index.html#footnotes",
+    "href": "complutensian/organization/collation/index.html#footnotes",
+    "title": "Collation",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSequences can be runs of lower case letters, upper case letters, doubled letters and even tripled letters.↩︎\nThe quire + folio number are regularly shown on the first recto of each bifolio, and on both rectos of the innermost sheet. This precludes the possibility of unintentionally adding sheets to a quire. For a normal ternion a, then, the normal pattern is that the first page is identified as a, and the recto of the next three folios as a ii, a iii and a iiii. For the rare quaterion, the first five pages are numbered through a v.↩︎\nThe printing history of the different individual copies is complex. The Madrid copy is clearly early: it lacks the printed Papal authorization and the corrigenda lists found in copies like the Huntington Library copy.↩︎\nThe title page is followed by a prolog with folios numbered from +iii through +iiii.↩︎\nThese pages are jumbled in the Madrid copy, with prolog pages inserted bewteen chapters 6 and 7 of Joshua. We can’t determine whether this is an error in the sequencing of the digital photography or in the bound copy.↩︎",
+    "crumbs": [
+      "The Original",
+      "Collation"
+    ]
+  },
+  {
+    "objectID": "complutensian/pagetour/index.html",
+    "href": "complutensian/pagetour/index.html",
+    "title": "Multilingual reading: tour of a page",
+    "section": "",
+    "text": "CautionPage in progress",
+    "crumbs": [
+      "The Original",
+      "Multilingual reading: tour of a page"
+    ]
+  },
+  {
+    "objectID": "complutensian/pagetour/index.html#multilingual-reading",
+    "href": "complutensian/pagetour/index.html#multilingual-reading",
+    "title": "Multilingual reading: tour of a page",
+    "section": "Multilingual reading",
+    "text": "Multilingual reading\n\n4 languages: Pentateuch (Torah)\n3 languages: remainder of OT (Prophets, Writings)\n2 languages: NT\n1 language with glossing\n1 language: Prayer of Manasseh\n\n\n\n\n\n\n\n\n\n\nFour languages\nThree languages\nTwo languages\nOne language (glossed)\n\n\n\nVol. 1, quire a, 1 recto\n\nVol. 2, quire a, 1 recto\n\nVol. 5, quire A, 1 recto\n\nVol. 4, quire F, 6 recto\n\n\n\nIn addition, one language, no glosses:",
+    "crumbs": [
+      "The Original",
+      "Multilingual reading: tour of a page"
+    ]
+  },
+  {
+    "objectID": "complutensian/pagetour/index.html#four-texts",
+    "href": "complutensian/pagetour/index.html#four-texts",
+    "title": "Multilingual reading: tour of a page",
+    "section": "Four texts",
+    "text": "Four texts\nTo illustrate how the Complutensian Bible supports multilingual reading, we can consider the opening of Genesis 1. In Volume 1, that is page 1 recto of quire a.\nThe texts of the Torah (published in volume 1) ilustrate the full range of the Complutensian’s four languages.\n\n\n\n\nSeptuagint\nVulgate\nMasoretic text\n\n\n\n\n\n\n\nTargum Onkelos\n\n(Glosses)",
+    "crumbs": [
+      "The Original",
+      "Multilingual reading: tour of a page"
+    ]
+  },
+  {
+    "objectID": "complutensian/pagetour/index.html#keeping-text-aligned",
+    "href": "complutensian/pagetour/index.html#keeping-text-aligned",
+    "title": "Multilingual reading: tour of a page",
+    "section": "Keeping text aligned",
+    "text": "Keeping text aligned\nIllustrations by Ashley Terjanian:\n\n\n\nLatin text\nHebrew text\n\n\n\n\n\n\n\n\n\nIn vol. 4, the same spacing markers used in Greek that are used in Latin in vol. 1.",
+    "crumbs": [
+      "The Original",
+      "Multilingual reading: tour of a page"
+    ]
+  },
+  {
+    "objectID": "complutensian/pagetour/index.html#glossing-commentary-interlinear",
+    "href": "complutensian/pagetour/index.html#glossing-commentary-interlinear",
+    "title": "Multilingual reading: tour of a page",
+    "section": "Glossing commentary: interlinear",
+    "text": "Glossing commentary: interlinear\nInterlinear glosses on LXX",
+    "crumbs": [
+      "The Original",
+      "Multilingual reading: tour of a page"
+    ]
+  },
+  {
+    "objectID": "complutensian/pagetour/index.html#glossing-commentary-adjacent",
+    "href": "complutensian/pagetour/index.html#glossing-commentary-adjacent",
+    "title": "Multilingual reading: tour of a page",
+    "section": "Glossing commentary: adjacent",
+    "text": "Glossing commentary: adjacent\nAdjacent glosses (Targum Onkelos)",
+    "crumbs": [
+      "The Original",
+      "Multilingual reading: tour of a page"
+    ]
+  },
+  {
+    "objectID": "complutensian/pagetour/index.html#glossing-commentary-via-indexing-with-lemmatization",
+    "href": "complutensian/pagetour/index.html#glossing-commentary-via-indexing-with-lemmatization",
+    "title": "Multilingual reading: tour of a page",
+    "section": "Glossing commentary via indexing, with lemmatization",
+    "text": "Glossing commentary via indexing, with lemmatization\n\nVulgate glossing Masoretic text\nExample from Genesis 1. Glossing by indexing Vulgate to Hebrew, plus link to lemma\n\n\n\n\nLatin word\nHebrew word\nlemma\n\n\n\n\n\n\n\n\n\n\nThe headword is the key to articles in the Hebrew lexicon in volume 6.\n\n\nConcordance by sense:\n\n\n\n\nVulgate glossing Greek New Testament\nGreek side: vol 5, quire A 1 recto. Can’t gloss Greek article!",
+    "crumbs": [
+      "The Original",
+      "Multilingual reading: tour of a page"
+    ]
+  },
+  {
+    "objectID": "complutensian/pagetour/index.html#more",
+    "href": "complutensian/pagetour/index.html#more",
+    "title": "Multilingual reading: tour of a page",
+    "section": "More",
+    "text": "More\nSee more info on contents and organization of volume 6, and example of navigation using the Biblical texts of volumes 1-4 with the reference material of volume 6.",
+    "crumbs": [
+      "The Original",
+      "Multilingual reading: tour of a page"
+    ]
+  },
+  {
+    "objectID": "complutensian/goals/prologs/index-old.html",
+    "href": "complutensian/goals/prologs/index-old.html",
+    "title": "Explicit statements by editors",
+    "section": "",
+    "text": "Note that reader in these prefaces is addressed as studiose Lector.\nProlog to pope addresses reason and design!\n\n\nTitle page plus 12 pages of prefatory material (1 handwritten in BNE copy)\n\nvol1_+_2r : Ad sanctissimum ac clementissimum dominum nostrum D. Leonem Decimum\nvol1_+_2v : Ad lectorem. De his que ad lectionem Ueteris testamenti diuersis linguis nunc primum impressi: sunt praenotanda\nvol1_+_3r : De Arte inueniendi radicem siue primitiuum cuiuisque dictionis Hebraicae\nvol1_+_4r : Prologus in Nouum testamentum: et de causis quare in eo apices graeci sunt praemissi. Ad lectorem.\nvol1_+_4r : Prologus in Hebraicum Chaldaicumque dictionarium atque Grammaticam Hebraeam cum interpretationibus propriorum nominum. Ad lectorem.\nvol1_+_4v : Notandum.\nvol1_+_5r : Modi intelligendi sacram scripturam.\nvol1_+_5r-vol1_+_6v : epistola beati Hieronymi ad Paulinum. Note: chapters of this are explicitly labelled\n\nvol1_+_6r : Hec a me perstricta sunt breuiter. Neque enim epistolaris angustia euagari longius patiebatur\n\nvol1_+_7r : Incipit praefatio sancti Hieronymi\nvol1_+_7v : handwritten copy of version printed in Huntington\n\n\n\n\n\nvol2_title_1v : repeats Ad sanctissimum ac clementissimum dominum nostrum D. Leonem Decimum from vol1_+_2r\nvol2_prolog_1r : repeats De his que ad lectionem Ueteris testamenti diuersis linguis nunc primum impressi: sunt praenotanda from vol1_+_2v but type is reset. Is text really the same?\n\n\n\n\nTitle page + 3 pages of prefatory material\n\nvol3_aaa_1v : repeats Ad sanctissimum ac clementissimum dominum nostrum D. Leonem Decimum from vol1_+_2r\nvol3_aaa_2r : repeats Ad lectorem. De his que ad lectionem Ueteris testamenti diuersis linguis nunc primum impressi: sunt praenotanda from vol1_+_2v\nvol3_aaa_2v : Jerome’s prolog\n\n\n\n\nTitle page + 3 pages of prefatory material\n\nvol4_a_1v : repeats Ad sanctissimum ac clementissimum dominum nostrum D. Leonem Decimum from vol1_+_2r\nvol4_a_2r : repeats Ad lectorem. De his que ad lectionem Ueteris testamenti diuersis linguis nunc primum impressi: sunt praenotanda from vol1_+_2v\nvol4_a_2v : Jerome’s prolog\n\n\n\n\nTitle page and 6 pages of prefatory material\n\nvol5_a-preface_2r : Greek text of why no accents or breathing in Greek! Reader is addressed ὦ σπουδαῖε φιλόλογε\nvol5_a-preface_2v : Latin version of same, repeating note from volume 1 on form of Greek in NT\nvol5_a-preface_3r : The letter of Eusebius to Carpianus, explaining the Canones! Explicit link to history of editing scholarly works.\nvol5_a-preface_3v : Jerome to Pope Damasus\nvol5_a-preface_4r : alius prologus\nvol5_a-preface_4v : argumentum\n\n\n\n\nTitle page and one page of introductory material.\n\nvol6_title_1v : Cum his qui diuine legis integram cognitionem ac in ea christum qui uera sapientia est pio mentis affectu conquirunt: quam plurimum conferat earum linguarum peritia :"
+  },
+  {
+    "objectID": "complutensian/goals/prologs/index-old.html#volume-1",
+    "href": "complutensian/goals/prologs/index-old.html#volume-1",
+    "title": "Explicit statements by editors",
+    "section": "",
+    "text": "Title page plus 12 pages of prefatory material (1 handwritten in BNE copy)\n\nvol1_+_2r : Ad sanctissimum ac clementissimum dominum nostrum D. Leonem Decimum\nvol1_+_2v : Ad lectorem. De his que ad lectionem Ueteris testamenti diuersis linguis nunc primum impressi: sunt praenotanda\nvol1_+_3r : De Arte inueniendi radicem siue primitiuum cuiuisque dictionis Hebraicae\nvol1_+_4r : Prologus in Nouum testamentum: et de causis quare in eo apices graeci sunt praemissi. Ad lectorem.\nvol1_+_4r : Prologus in Hebraicum Chaldaicumque dictionarium atque Grammaticam Hebraeam cum interpretationibus propriorum nominum. Ad lectorem.\nvol1_+_4v : Notandum.\nvol1_+_5r : Modi intelligendi sacram scripturam.\nvol1_+_5r-vol1_+_6v : epistola beati Hieronymi ad Paulinum. Note: chapters of this are explicitly labelled\n\nvol1_+_6r : Hec a me perstricta sunt breuiter. Neque enim epistolaris angustia euagari longius patiebatur\n\nvol1_+_7r : Incipit praefatio sancti Hieronymi\nvol1_+_7v : handwritten copy of version printed in Huntington"
+  },
+  {
+    "objectID": "complutensian/goals/prologs/index-old.html#volume-2",
+    "href": "complutensian/goals/prologs/index-old.html#volume-2",
+    "title": "Explicit statements by editors",
+    "section": "",
+    "text": "vol2_title_1v : repeats Ad sanctissimum ac clementissimum dominum nostrum D. Leonem Decimum from vol1_+_2r\nvol2_prolog_1r : repeats De his que ad lectionem Ueteris testamenti diuersis linguis nunc primum impressi: sunt praenotanda from vol1_+_2v but type is reset. Is text really the same?"
+  },
+  {
+    "objectID": "complutensian/goals/prologs/index-old.html#volume-3",
+    "href": "complutensian/goals/prologs/index-old.html#volume-3",
+    "title": "Explicit statements by editors",
+    "section": "",
+    "text": "Title page + 3 pages of prefatory material\n\nvol3_aaa_1v : repeats Ad sanctissimum ac clementissimum dominum nostrum D. Leonem Decimum from vol1_+_2r\nvol3_aaa_2r : repeats Ad lectorem. De his que ad lectionem Ueteris testamenti diuersis linguis nunc primum impressi: sunt praenotanda from vol1_+_2v\nvol3_aaa_2v : Jerome’s prolog"
+  },
+  {
+    "objectID": "complutensian/goals/prologs/index-old.html#volume-4",
+    "href": "complutensian/goals/prologs/index-old.html#volume-4",
+    "title": "Explicit statements by editors",
+    "section": "",
+    "text": "Title page + 3 pages of prefatory material\n\nvol4_a_1v : repeats Ad sanctissimum ac clementissimum dominum nostrum D. Leonem Decimum from vol1_+_2r\nvol4_a_2r : repeats Ad lectorem. De his que ad lectionem Ueteris testamenti diuersis linguis nunc primum impressi: sunt praenotanda from vol1_+_2v\nvol4_a_2v : Jerome’s prolog"
+  },
+  {
+    "objectID": "complutensian/goals/prologs/index-old.html#volume-5",
+    "href": "complutensian/goals/prologs/index-old.html#volume-5",
+    "title": "Explicit statements by editors",
+    "section": "",
+    "text": "Title page and 6 pages of prefatory material\n\nvol5_a-preface_2r : Greek text of why no accents or breathing in Greek! Reader is addressed ὦ σπουδαῖε φιλόλογε\nvol5_a-preface_2v : Latin version of same, repeating note from volume 1 on form of Greek in NT\nvol5_a-preface_3r : The letter of Eusebius to Carpianus, explaining the Canones! Explicit link to history of editing scholarly works.\nvol5_a-preface_3v : Jerome to Pope Damasus\nvol5_a-preface_4r : alius prologus\nvol5_a-preface_4v : argumentum"
+  },
+  {
+    "objectID": "complutensian/goals/prologs/index-old.html#volume-6",
+    "href": "complutensian/goals/prologs/index-old.html#volume-6",
+    "title": "Explicit statements by editors",
+    "section": "",
+    "text": "Title page and one page of introductory material.\n\nvol6_title_1v : Cum his qui diuine legis integram cognitionem ac in ea christum qui uera sapientia est pio mentis affectu conquirunt: quam plurimum conferat earum linguarum peritia :"
+  },
+  {
+    "objectID": "complutensian/goals/index.html",
+    "href": "complutensian/goals/index.html",
+    "title": "Editorial goals",
+    "section": "",
+    "text": "We don’t have to guess: they tell us in 5 prefatory essays.\npope leo: motivation, big design, overall plan reading OT. Concrete things (finding HEbrew roots) digging down reading NT (1 and 5). But now apologies for NT using dictionary. and again\nThings they talk about in addition to philological drive to original meaning:\nTO POPE\nTO READER\n*NT\nOT\nLEXICON AND ROOTS\nWe see them at work"
+  },
+  {
+    "objectID": "complutensian/goals/index.html#implications-of-design",
+    "href": "complutensian/goals/index.html#implications-of-design",
+    "title": "Editorial goals",
+    "section": "Implications of design",
+    "text": "Implications of design\n\nA library insisting on necessity of multilingual reading\nnumerous aids for beginners\nsophisticated indexing for scholars"
+  },
+  {
+    "objectID": "complutensian/cost/index.html",
+    "href": "complutensian/cost/index.html",
+    "title": "How much did the Complutensian cost?",
+    "section": "",
+    "text": "How much did the Complutensian cost?\n(Lyell 1917, 34) says\nMiller (2001) compares space program\n\n\n\n\n\nReferences\n\nLyell, James P. R. 1917. Cardinal Ximenes, statesman, ecclesiastic, soldier and man of letters: with an account of the Complutensian polyglot Bible. ATLA monograph preservation program. Grafton & Co.\n\n\nMiller, Peter N. 2001. “The \"Antiquarianization\" of Biblical Scholarship and the London Polyglot Bible (1653-57).” Journal of the History of Ideas 62 (3): 463–82. https://doi.org/10.2307/3654151."
+  },
+  {
+    "objectID": "complutensian/books/index.html",
+    "href": "complutensian/books/index.html",
+    "title": "The text corpus",
+    "section": "",
+    "text": "respect for other traditions?\n\n\n\n\n\n\n\n1 Kings k ii verso. Note titles: urn:cite2:citebne:complutensian.v1:v2b_p20@0.4649,0.07268,0.4622,0.03005\n\n\n\n\n3 Kings x iii recto Note titles: urn:cite2:citebne:complutensian.v1:v2c_p53@0.1729,0.3490,0.3849,0.02852\n\n\n\n\n1 Paralipomenon ii (6) recto Note title: urn:cite2:citebne:complutensian.v1:v2d_p91@0.1302,0.08218,0.4458,0.03895\n\n\n\n\nEcclesiasticus B iii verso Note title urn:cite2:citebne:complutensian.v1:v3d_p74@0.2093,0.06930,0.4680,0.02545"
+  },
+  {
+    "objectID": "complutensian/books/index.html#names-of-books",
+    "href": "complutensian/books/index.html#names-of-books",
+    "title": "The text corpus",
+    "section": "",
+    "text": "1 Kings k ii verso. Note titles: urn:cite2:citebne:complutensian.v1:v2b_p20@0.4649,0.07268,0.4622,0.03005\n\n\n\n\n3 Kings x iii recto Note titles: urn:cite2:citebne:complutensian.v1:v2c_p53@0.1729,0.3490,0.3849,0.02852\n\n\n\n\n1 Paralipomenon ii (6) recto Note title: urn:cite2:citebne:complutensian.v1:v2d_p91@0.1302,0.08218,0.4458,0.03895\n\n\n\n\nEcclesiasticus B iii verso Note title urn:cite2:citebne:complutensian.v1:v3d_p74@0.2093,0.06930,0.4680,0.02545"
+  },
+  {
+    "objectID": "complutensian/chronology/index.html",
+    "href": "complutensian/chronology/index.html",
+    "title": "Chronology",
+    "section": "",
+    "text": "The colophons to the three main sections of the project give explicit dates for their printing. In chronological order, they are:\n\nNew Testament (volume 5): January 10, 1514\nHebrew lexicon and other reference materials (volume 6): March 17, 1515\nThe multilingual Old Testament (volumes 1-4): July 10, 1517\n\nThe papal authorization to publish the work is dated March 22, 1520.\nSome copies include a second note from Pope Leo X referring to the death of Cisneros, which occurred on November 8 1520.1",
+    "crumbs": [
+      "The Original",
+      "Chronology"
+    ]
+  },
+  {
+    "objectID": "complutensian/chronology/index.html#important-fixed-points",
+    "href": "complutensian/chronology/index.html#important-fixed-points",
+    "title": "Chronology",
+    "section": "",
+    "text": "The colophons to the three main sections of the project give explicit dates for their printing. In chronological order, they are:\n\nNew Testament (volume 5): January 10, 1514\nHebrew lexicon and other reference materials (volume 6): March 17, 1515\nThe multilingual Old Testament (volumes 1-4): July 10, 1517\n\nThe papal authorization to publish the work is dated March 22, 1520.\nSome copies include a second note from Pope Leo X referring to the death of Cisneros, which occurred on November 8 1520.1",
+    "crumbs": [
+      "The Original",
+      "Chronology"
+    ]
+  },
+  {
+    "objectID": "complutensian/chronology/index.html#footnotes",
+    "href": "complutensian/chronology/index.html#footnotes",
+    "title": "Chronology",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nDeath date: (Lyell 1917, 28). Lyell states (p. 35) that the authorized volumes were not “put into circulation” until 1522, but does not cite evidence for this date.↩︎",
+    "crumbs": [
+      "The Original",
+      "Chronology"
+    ]
+  },
+  {
+    "objectID": "resources/images/index.html",
+    "href": "resources/images/index.html",
+    "title": "Images",
+    "section": "",
+    "text": "IIIF manifests for the openly licensed photography of the National Library of Spain’s copy of the Complutensian Bible, by volume:\n\nvolume 1: https://raw.githubusercontent.com/neelsmith/complutensian-texts/refs/heads/main/iiif/complutensian-bne-v1-manifest.json\nvolume 2: https://raw.githubusercontent.com/neelsmith/complutensian-texts/refs/heads/main/iiif/complutensian-bne-v2-manifest.json\nvolume 3: https://raw.githubusercontent.com/neelsmith/complutensian-texts/refs/heads/main/iiif/complutensian-bne-v3-manifest.json\nvolume 4: https://raw.githubusercontent.com/neelsmith/complutensian-texts/refs/heads/main/iiif/complutensian-bne-v4-manifest.json\nvolume 5: https://raw.githubusercontent.com/neelsmith/complutensian-texts/refs/heads/main/iiif/complutensian-bne-v5-manifest.json\nvolume 6: https://raw.githubusercontent.com/neelsmith/complutensian-texts/refs/heads/main/iiif/complutensian-bne-v6-manifest.json\n\nYou can use these URLs to browse the images with any IIIF viewer.\n\n\n\n\n\n\nNoteMore information\n\n\n\nTo learn more about the relation of these IIIF manifests to the digital photography hosted atr the National Library of Spain and at the Library of Congress, see this blog post.\n\n\n\n\n\n\n\n\nCautionWork in progress\n\n\n\nSome images of pages in volume 1 are not yet correctly loaded on the cited IIIF server and need to be replaced. See this issue on github"
+  },
+  {
+    "objectID": "resources/texts/index.html",
+    "href": "resources/texts/index.html",
+    "title": "Canonically citable texts",
+    "section": "",
+    "text": "Note Github repository for texts\n\n\n\n\n\n\nWe have drawn on existing openly licensed versions of the Hebrew Bible, the Latin Vulgate, the Greek Septuagint and the Aramic Targum Onkelos to create a single delimited-text file (CEX format) containing all four texts with passages identified by CTS URN. The source files and resulting composite are available from this github repository. You can directly download the file with the complete set of citable texts from https://github.com/neelsmith/compnov/raw/refs/heads/main/corpus/compnov.cex\n\n\nIn Julia, you can use the CitableCorpus package to load a corpus from a CEX file like this:\n\n\n\n   Resolving package versions...\n     Project No packages added to or removed from `/private/var/folders/4d/plp4n2z13k1bbbylk3vvl4y80000gn/T/jl_e3wpfn/QuartoSandbox/Project.toml`\n    Manifest No packages added to or removed from `/private/var/folders/4d/plp4n2z13k1bbbylk3vvl4y80000gn/T/jl_e3wpfn/QuartoSandbox/Manifest.toml`\n   Resolving package versions...\n     Project No packages added to or removed from `/private/var/folders/4d/plp4n2z13k1bbbylk3vvl4y80000gn/T/jl_e3wpfn/QuartoSandbox/Project.toml`\n    Manifest No packages added to or removed from `/private/var/folders/4d/plp4n2z13k1bbbylk3vvl4y80000gn/T/jl_e3wpfn/QuartoSandbox/Manifest.toml`\n\n\n\n\n\nusing CitableBase, CitableCorpus\ncorpusurl = \"https://github.com/neelsmith/compnov/raw/refs/heads/main/corpus/compnov.cex\"\ncorpus = fromcex(corpusurl, CitableTextCorpus, UrlReader)\n\n\nPrecompiling packages...\n    892.5 ms  ✓ QuartoNotebookWorkerTablesExt (serial)\n  1 dependency successfully precompiled in 1 seconds\n\n\n\n\nCorpus with 85514 citable passages in 139 documents."
+  },
+  {
+    "objectID": "resources/texts/index.html#the-four-main-texts",
+    "href": "resources/texts/index.html#the-four-main-texts",
+    "title": "Canonically citable texts",
+    "section": "",
+    "text": "Note Github repository for texts\n\n\n\n\n\n\nWe have drawn on existing openly licensed versions of the Hebrew Bible, the Latin Vulgate, the Greek Septuagint and the Aramic Targum Onkelos to create a single delimited-text file (CEX format) containing all four texts with passages identified by CTS URN. The source files and resulting composite are available from this github repository. You can directly download the file with the complete set of citable texts from https://github.com/neelsmith/compnov/raw/refs/heads/main/corpus/compnov.cex\n\n\nIn Julia, you can use the CitableCorpus package to load a corpus from a CEX file like this:\n\n\n\n   Resolving package versions...\n     Project No packages added to or removed from `/private/var/folders/4d/plp4n2z13k1bbbylk3vvl4y80000gn/T/jl_e3wpfn/QuartoSandbox/Project.toml`\n    Manifest No packages added to or removed from `/private/var/folders/4d/plp4n2z13k1bbbylk3vvl4y80000gn/T/jl_e3wpfn/QuartoSandbox/Manifest.toml`\n   Resolving package versions...\n     Project No packages added to or removed from `/private/var/folders/4d/plp4n2z13k1bbbylk3vvl4y80000gn/T/jl_e3wpfn/QuartoSandbox/Project.toml`\n    Manifest No packages added to or removed from `/private/var/folders/4d/plp4n2z13k1bbbylk3vvl4y80000gn/T/jl_e3wpfn/QuartoSandbox/Manifest.toml`\n\n\n\n\n\nusing CitableBase, CitableCorpus\ncorpusurl = \"https://github.com/neelsmith/compnov/raw/refs/heads/main/corpus/compnov.cex\"\ncorpus = fromcex(corpusurl, CitableTextCorpus, UrlReader)\n\n\nPrecompiling packages...\n    892.5 ms  ✓ QuartoNotebookWorkerTablesExt (serial)\n  1 dependency successfully precompiled in 1 seconds\n\n\n\n\nCorpus with 85514 citable passages in 139 documents."
+  },
+  {
+    "objectID": "resources/texts/index.html#sources-for-the-texts",
+    "href": "resources/texts/index.html#sources-for-the-texts",
+    "title": "Canonically citable texts",
+    "section": "Sources for the texts",
+    "text": "Sources for the texts\n\nTanach, Vulgate, Septuagint\nThe texts of the Hebrew Bible, the Latin translation of Jerome and the Greek translation of the Septuagint are taken from https://ebible.org:\n\nכתבי הקודש: the Hebrew Masoretic text (public domain)\nThe Clementine Vulgate of 1598 (public domain)\nThe Greek Septuagint with Apocrypha, compiled by Sir Lancelot C. L. Brenton (public domain)\n\nPlain-text versions of the ebibles.org files are replicated in the src directory of the github repository (here). The file scripts/citify.jl is a Julia script for converting the ebibles source texts (in the src directory) to a single citable corpus.\n\n\nThe Targum Onkelos\nThe digital text of the Targum Onkelos is taken from the “merged” texts in this directory of the Sefaria project’s data: https://github.com/Sefaria/Sefaria-Export/tree/master/txt/Tanakh/Targum/Onkelos/Torah\nThe github repository’s src/onkelos directory has one “merged” file for each both of the Torah. The file src/onkelos/source-credits.txt has the Sefaria project’s detailed metadata about each file.\nThe script src/onkelos/parse-onkelos.jl is a Julia script that creates a single file in CEX format from the five source files."
+  },
+  {
+    "objectID": "resources/texts/index.html#latin-glosses-on-the-greek-and-aramaic-translations",
+    "href": "resources/texts/index.html#latin-glosses-on-the-greek-and-aramaic-translations",
+    "title": "Canonically citable texts",
+    "section": "Latin glosses on the Greek and Aramaic translations",
+    "text": "Latin glosses on the Greek and Aramaic translations\n\n\n\n\n\n\nNote Repository for glosses\n\n\n\n\n\n\nWe are working on digital encoding of textual and non-textual content of the Complutensian Bible in this github repository. This repository includes editions of the Latin glosses on the Septuagint and on the Targum Onkelos in TEI-conformant XML.\n\n\n\n\n\n\nNoteStatus\n\n\n\n\ninitial draft XML editions of the Latin glosses on the Septuagint and the Targum Onkelos are complete through Genesis chapter 40.\nthe contents of the Latin glosses have not yet been fully machine validated"
+  },
+  {
+    "objectID": "resources/facsimiles/index.html",
+    "href": "resources/facsimiles/index.html",
+    "title": "Facsimiles",
+    "section": "",
+    "text": "Facsimiles"
+  },
+  {
+    "objectID": "resources/bilbiographicnotes/index.html",
+    "href": "resources/bilbiographicnotes/index.html",
+    "title": "Bibliographic notes",
+    "section": "",
+    "text": "Highly selective\n\nnear-primary source Gómez de Castro (1569)\n\n\n\na recent general introduction: Marcos (2017)\nstill useful: Lyell (1917)\nlayout of the volumes (Marcos 2017, 7–11)\n\n\n\n\n\nReferences\n\nGómez de Castro, Alvar. 1569. De Rebus Gestis a Francisco Ximenio, Cisnerio, Archiepiscopo Toletano, Libri Octo. Aluaro Gomecio Toletano Authore. https://ebuah.uah.es/dspace/handle/10017/1921.\n\n\nLyell, James P. R. 1917. Cardinal Ximenes, statesman, ecclesiastic, soldier and man of letters: with an account of the Complutensian polyglot Bible. ATLA monograph preservation program. Grafton & Co.\n\n\nMarcos, Natalio Fernández. 2017. The First Polyglot Bible. Brill. https://brill.com/display/book/edcoll/9789004335028/B9789004335028_002.xml."
+  },
+  {
+    "objectID": "presentations/aia-scs2025/index.html",
+    "href": "presentations/aia-scs2025/index.html",
+    "title": "AIA/SCS 2025",
+    "section": "",
+    "text": "SCS-75: January 5, 2025, 8:00am–1:30pm. Ancient MakerSpaces (Workshop, Joint session) (Salon A)\nPresenters: Neel Smith, Ashley Terjanian\nTitle: A digital Complutensian polyglot Bible\nSlides\nAbstract:\n\nOur project is inspired by the first multilingual Bible, the six-volume Complutensian polyglot. Like the Complutensian, we include a Masoretic Hebrew Bible, a Latin Vulgate, a Greek Septuagint and the Aramaic Targum Onkelos. Like the Complutensian, we implement functionality to support readers who have not mastered the languages as well as for new forms of scholarly investigation based on cross-lingual alignment of similar functional features. We present new systems for morphological analysis of Latin, Greek and Hebrew, and show how they allow us to identify overlapping semantic spaces and syntactic structures in the different texts.\n\nAudience: Anyone interested in using digital methods to isolate features of Greek, Latin or Hebrew texts"
+  },
+  {
+    "objectID": "presentations/aia-scs2025/index.html#ancient-makerspaces",
+    "href": "presentations/aia-scs2025/index.html#ancient-makerspaces",
+    "title": "AIA/SCS 2025",
+    "section": "",
+    "text": "SCS-75: January 5, 2025, 8:00am–1:30pm. Ancient MakerSpaces (Workshop, Joint session) (Salon A)\nPresenters: Neel Smith, Ashley Terjanian\nTitle: A digital Complutensian polyglot Bible\nSlides\nAbstract:\n\nOur project is inspired by the first multilingual Bible, the six-volume Complutensian polyglot. Like the Complutensian, we include a Masoretic Hebrew Bible, a Latin Vulgate, a Greek Septuagint and the Aramaic Targum Onkelos. Like the Complutensian, we implement functionality to support readers who have not mastered the languages as well as for new forms of scholarly investigation based on cross-lingual alignment of similar functional features. We present new systems for morphological analysis of Latin, Greek and Hebrew, and show how they allow us to identify overlapping semantic spaces and syntactic structures in the different texts.\n\nAudience: Anyone interested in using digital methods to isolate features of Greek, Latin or Hebrew texts"
+  },
+  {
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "News\nI’m posting news about the project to my blog with the tag complutensian.\n\nsee a list of tagged posts.\ntrack the blog’s RSS feed"
+  },
+  {
+    "objectID": "examples/pluto/vulgate-passage-image/index.html#notebook",
+    "href": "examples/pluto/vulgate-passage-image/index.html#notebook",
+    "title": "Vulgate text with page image",
+    "section": "Notebook",
+    "text": "Notebook\nHTML"
+  },
+  {
+    "objectID": "examples/pluto/vulgate-passage-image/index.html#screen-capture",
+    "href": "examples/pluto/vulgate-passage-image/index.html#screen-capture",
+    "title": "Vulgate text with page image",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/align-verbs-to-latin/index.html",
+    "href": "examples/pluto/align-verbs-to-latin/index.html",
+    "title": "Align texts to a Latin verb",
+    "section": "",
+    "text": "Select a Latin lexeme; summarize alignments in other Latin documents, highlighting matches."
+  },
+  {
+    "objectID": "examples/pluto/align-verbs-to-latin/index.html#overview",
+    "href": "examples/pluto/align-verbs-to-latin/index.html#overview",
+    "title": "Align texts to a Latin verb",
+    "section": "",
+    "text": "Select a Latin lexeme; summarize alignments in other Latin documents, highlighting matches."
+  },
+  {
+    "objectID": "examples/pluto/align-verbs-to-latin/index.html#notebook",
+    "href": "examples/pluto/align-verbs-to-latin/index.html#notebook",
+    "title": "Align texts to a Latin verb",
+    "section": "Notebook",
+    "text": "Notebook\n\nHTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/align-verbs-to-latin/index.html#screen-capture",
+    "href": "examples/pluto/align-verbs-to-latin/index.html#screen-capture",
+    "title": "Align texts to a Latin verb",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/isolate-verbs-greek/index.html",
+    "href": "examples/pluto/isolate-verbs-greek/index.html",
+    "title": "Isolate Greek verbs",
+    "section": "",
+    "text": "Select a passage, and display text of the Septuagint with all verb forms highlighted."
+  },
+  {
+    "objectID": "examples/pluto/isolate-verbs-greek/index.html#overview",
+    "href": "examples/pluto/isolate-verbs-greek/index.html#overview",
+    "title": "Isolate Greek verbs",
+    "section": "",
+    "text": "Select a passage, and display text of the Septuagint with all verb forms highlighted."
+  },
+  {
+    "objectID": "examples/pluto/isolate-verbs-greek/index.html#notebook",
+    "href": "examples/pluto/isolate-verbs-greek/index.html#notebook",
+    "title": "Isolate Greek verbs",
+    "section": "Notebook",
+    "text": "Notebook\n\nHTML version\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/isolate-verbs-greek/index.html#screen-capture",
+    "href": "examples/pluto/isolate-verbs-greek/index.html#screen-capture",
+    "title": "Isolate Greek verbs",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/zipf-latin/index.html",
+    "href": "examples/pluto/zipf-latin/index.html",
+    "title": "Token frequencies in Latin texts",
+    "section": "",
+    "text": "Choose a minimum number of occurrences to consider, and graph frequencies of tokens for each of the texts in the Complutensian Bible."
+  },
+  {
+    "objectID": "examples/pluto/zipf-latin/index.html#overview",
+    "href": "examples/pluto/zipf-latin/index.html#overview",
+    "title": "Token frequencies in Latin texts",
+    "section": "",
+    "text": "Choose a minimum number of occurrences to consider, and graph frequencies of tokens for each of the texts in the Complutensian Bible."
+  },
+  {
+    "objectID": "examples/pluto/zipf-latin/index.html#notebook",
+    "href": "examples/pluto/zipf-latin/index.html#notebook",
+    "title": "Token frequencies in Latin texts",
+    "section": "Notebook",
+    "text": "Notebook\n\n\n\n\n\n\nWarningUses local resources\n\n\n\nThis notebook uses data in local files, and expects to be run files from a copy of this github repository.\n\n\n\nHTML version (readable in a web browser)\nPluto notebook (download and run in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/zipf-latin/index.html#screen-capture",
+    "href": "examples/pluto/zipf-latin/index.html#screen-capture",
+    "title": "Token frequencies in Latin texts",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/imagebrowsing/index.html",
+    "href": "examples/pluto/imagebrowsing/index.html",
+    "title": "A notebook for browsing images of the Complutensian Bible",
+    "section": "",
+    "text": "A simple Pluto notebook that lets you browse images of the copy of the Complutensian Bible in the National Library of Spain. Select a volume, scroll through thumbnail images, pan and zoom images."
+  },
+  {
+    "objectID": "examples/pluto/imagebrowsing/index.html#overview",
+    "href": "examples/pluto/imagebrowsing/index.html#overview",
+    "title": "A notebook for browsing images of the Complutensian Bible",
+    "section": "",
+    "text": "A simple Pluto notebook that lets you browse images of the copy of the Complutensian Bible in the National Library of Spain. Select a volume, scroll through thumbnail images, pan and zoom images."
+  },
+  {
+    "objectID": "examples/pluto/imagebrowsing/index.html#the-notebook",
+    "href": "examples/pluto/imagebrowsing/index.html#the-notebook",
+    "title": "A notebook for browsing images of the Complutensian Bible",
+    "section": "The notebook",
+    "text": "The notebook\n\nHTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/imagebrowsing/index.html#screen-capture",
+    "href": "examples/pluto/imagebrowsing/index.html#screen-capture",
+    "title": "A notebook for browsing images of the Complutensian Bible",
+    "section": "Screen capture",
+    "text": "Screen capture\n\n\n\nPluto notebook for browsing images"
+  },
+  {
+    "objectID": "examples/pluto/verbhisto/index.html#notebook",
+    "href": "examples/pluto/verbhisto/index.html#notebook",
+    "title": "Lexeme frequencies for verbs in Latin texts",
+    "section": "Notebook",
+    "text": "Notebook\n\n\n\n\n\n\nWarningUses local resources\n\n\n\nThis notebook uses data in local files, and expects to be run files from a copy of this github repository.\n\n\n\nPluto notebook (download and open in Pluto)\nHTML version"
+  },
+  {
+    "objectID": "examples/pluto/verbhisto/index.html#screen-capture",
+    "href": "examples/pluto/verbhisto/index.html#screen-capture",
+    "title": "Lexeme frequencies for verbs in Latin texts",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/project-lexeme/index.html#notebook",
+    "href": "examples/pluto/project-lexeme/index.html#notebook",
+    "title": "Project lexeme across Latin documents",
+    "section": "Notebook",
+    "text": "Notebook\nHTML"
+  },
+  {
+    "objectID": "examples/pluto/project-lexeme/index.html#screen-capture",
+    "href": "examples/pluto/project-lexeme/index.html#screen-capture",
+    "title": "Project lexeme across Latin documents",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/alignedpassages/index.html",
+    "href": "examples/pluto/alignedpassages/index.html",
+    "title": "A notebook for browsing images of the Complutensian Bible",
+    "section": "",
+    "text": "Select a book/passage reference, and read parallel passages from the four texts of the Complutensian Bible (Hebrew Bible, Latin Vulgate, Greek Septuagint, Aramaic Targum Onkelos)."
+  },
+  {
+    "objectID": "examples/pluto/alignedpassages/index.html#overview",
+    "href": "examples/pluto/alignedpassages/index.html#overview",
+    "title": "A notebook for browsing images of the Complutensian Bible",
+    "section": "",
+    "text": "Select a book/passage reference, and read parallel passages from the four texts of the Complutensian Bible (Hebrew Bible, Latin Vulgate, Greek Septuagint, Aramaic Targum Onkelos)."
+  },
+  {
+    "objectID": "examples/pluto/alignedpassages/index.html#the-notebook",
+    "href": "examples/pluto/alignedpassages/index.html#the-notebook",
+    "title": "A notebook for browsing images of the Complutensian Bible",
+    "section": "The notebook",
+    "text": "The notebook\n\nHTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/alignedpassages/index.html#screen-capture",
+    "href": "examples/pluto/alignedpassages/index.html#screen-capture",
+    "title": "A notebook for browsing images of the Complutensian Bible",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/citable-tokens/index.html",
+    "href": "examples/pluto/citable-tokens/index.html",
+    "title": "Citable tokens",
+    "section": "",
+    "text": "Choose a passage and list orthographic tokens of the Hebrew Bible and Vulgate texts in adjacent columns, with identifying passage element from the token’s URN.\n\n\n\n\n\n\nTip\n\n\n\nThis notebook is especially handy for editing the correspondences of the Complutensian’s glossing indexing connecting the Vulgate and the Hebrew Bible."
+  },
+  {
+    "objectID": "examples/pluto/citable-tokens/index.html#overview",
+    "href": "examples/pluto/citable-tokens/index.html#overview",
+    "title": "Citable tokens",
+    "section": "",
+    "text": "Choose a passage and list orthographic tokens of the Hebrew Bible and Vulgate texts in adjacent columns, with identifying passage element from the token’s URN.\n\n\n\n\n\n\nTip\n\n\n\nThis notebook is especially handy for editing the correspondences of the Complutensian’s glossing indexing connecting the Vulgate and the Hebrew Bible."
+  },
+  {
+    "objectID": "examples/pluto/citable-tokens/index.html#notebook",
+    "href": "examples/pluto/citable-tokens/index.html#notebook",
+    "title": "Citable tokens",
+    "section": "Notebook",
+    "text": "Notebook\n\nHTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/citable-tokens/index.html#screen-capture",
+    "href": "examples/pluto/citable-tokens/index.html#screen-capture",
+    "title": "Citable tokens",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/isolateverbs/index.html",
+    "href": "examples/pluto/isolateverbs/index.html",
+    "title": "Isolate verbs",
+    "section": "",
+    "text": "Find all verb verbs in the Vulgate and the Latin glosses to the Targum Onkelos and the Septuagint. Choose to view only passages with the same number of verbs or a different number of verbs, or all passages; then list, in parallel columns, the verb forms showing up in each verse."
+  },
+  {
+    "objectID": "examples/pluto/isolateverbs/index.html#overview",
+    "href": "examples/pluto/isolateverbs/index.html#overview",
+    "title": "Isolate verbs",
+    "section": "",
+    "text": "Find all verb verbs in the Vulgate and the Latin glosses to the Targum Onkelos and the Septuagint. Choose to view only passages with the same number of verbs or a different number of verbs, or all passages; then list, in parallel columns, the verb forms showing up in each verse."
+  },
+  {
+    "objectID": "examples/pluto/isolateverbs/index.html#notebook",
+    "href": "examples/pluto/isolateverbs/index.html#notebook",
+    "title": "Isolate verbs",
+    "section": "Notebook",
+    "text": "Notebook\n\n\n\n\n\n\nWarningUses local resources\n\n\n\nThis notebook uses data in local files, and expects to be run files from a copy of this github repository.\n\n\n\nHTML\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/isolateverbs/index.html#screen-capture",
+    "href": "examples/pluto/isolateverbs/index.html#screen-capture",
+    "title": "Isolate verbs",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/spacing-markers-latin/index.html",
+    "href": "examples/pluto/spacing-markers-latin/index.html",
+    "title": "Spacing markers in Latin text",
+    "section": "",
+    "text": "Select a passage of text. Hebrew and Vulgate versions are displayed alinged and separated visually by a Latin spacing marker. Optionally, see a visual display of the given page highlighting all Latin spacing markers"
+  },
+  {
+    "objectID": "examples/pluto/spacing-markers-latin/index.html#overview",
+    "href": "examples/pluto/spacing-markers-latin/index.html#overview",
+    "title": "Spacing markers in Latin text",
+    "section": "",
+    "text": "Select a passage of text. Hebrew and Vulgate versions are displayed alinged and separated visually by a Latin spacing marker. Optionally, see a visual display of the given page highlighting all Latin spacing markers"
+  },
+  {
+    "objectID": "examples/pluto/spacing-markers-latin/index.html#notebook",
+    "href": "examples/pluto/spacing-markers-latin/index.html#notebook",
+    "title": "Spacing markers in Latin text",
+    "section": "Notebook",
+    "text": "Notebook\n\n\n\n\n\n\nWarningUses local resources\n\n\n\nThis notebook uses data in local files, and expects to be run files from a copy of this github repository.\n\n\n\nHTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/spacing-markers-latin/index.html#screen-capture",
+    "href": "examples/pluto/spacing-markers-latin/index.html#screen-capture",
+    "title": "Spacing markers in Latin text",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/greek-morphology/index.html",
+    "href": "examples/pluto/greek-morphology/index.html",
+    "title": "Greek morphology",
+    "section": "",
+    "text": "Select a passage of the Septuagint; choose words in the passage to analyze morphologically, highlighting analyzed tokens."
+  },
+  {
+    "objectID": "examples/pluto/greek-morphology/index.html#overview",
+    "href": "examples/pluto/greek-morphology/index.html#overview",
+    "title": "Greek morphology",
+    "section": "",
+    "text": "Select a passage of the Septuagint; choose words in the passage to analyze morphologically, highlighting analyzed tokens."
+  },
+  {
+    "objectID": "examples/pluto/greek-morphology/index.html#notebook",
+    "href": "examples/pluto/greek-morphology/index.html#notebook",
+    "title": "Greek morphology",
+    "section": "Notebook",
+    "text": "Notebook\n\n\n\n\n\n\nWarningUses local resources\n\n\n\nThis notebook uses data in local files, and expects to be run files from a copy of this github repository.\n\n\n\nHTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/greek-morphology/index.html#screen-capture",
+    "href": "examples/pluto/greek-morphology/index.html#screen-capture",
+    "title": "Greek morphology",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/abbreviations/index.html",
+    "href": "examples/pluto/abbreviations/index.html",
+    "title": "Usage of abbreviations in glossing",
+    "section": "",
+    "text": "Plots frequencies of abbreviations and expansion in the editions of the Latin glosses to the Targum Onkelos and to the Septuagint."
+  },
+  {
+    "objectID": "examples/pluto/abbreviations/index.html#overview",
+    "href": "examples/pluto/abbreviations/index.html#overview",
+    "title": "Usage of abbreviations in glossing",
+    "section": "",
+    "text": "Plots frequencies of abbreviations and expansion in the editions of the Latin glosses to the Targum Onkelos and to the Septuagint."
+  },
+  {
+    "objectID": "examples/pluto/abbreviations/index.html#notebook",
+    "href": "examples/pluto/abbreviations/index.html#notebook",
+    "title": "Usage of abbreviations in glossing",
+    "section": "Notebook",
+    "text": "Notebook\n\n\n\n\n\n\nWarningUses local resources\n\n\n\nThis notebook uses data in local files, and expects to be run files from a copy of this github repository.\n\n\n\nHTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/abbreviations/index.html#screen-capture",
+    "href": "examples/pluto/abbreviations/index.html#screen-capture",
+    "title": "Usage of abbreviations in glossing",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/passage-plus-image/index.html",
+    "href": "examples/pluto/passage-plus-image/index.html",
+    "title": "Read passage of text with image from BNE copy",
+    "section": "",
+    "text": "Select a passage, read the Vulgate text of passage along with zoomable/pannable image of the page where that passage occurs."
+  },
+  {
+    "objectID": "examples/pluto/passage-plus-image/index.html#overview",
+    "href": "examples/pluto/passage-plus-image/index.html#overview",
+    "title": "Read passage of text with image from BNE copy",
+    "section": "",
+    "text": "Select a passage, read the Vulgate text of passage along with zoomable/pannable image of the page where that passage occurs."
+  },
+  {
+    "objectID": "examples/pluto/passage-plus-image/index.html#notebook",
+    "href": "examples/pluto/passage-plus-image/index.html#notebook",
+    "title": "Read passage of text with image from BNE copy",
+    "section": "Notebook",
+    "text": "Notebook\n\n\n\n\n\n\nWarningUses local resources\n\n\n\nThis notebook uses data in local files, and expects to be run files from a copy of this github repository.\n\n\n\nHTML version (readable in a web browser)\nPluto notebook (download and run in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/passage-plus-image/index.html#screen-capture",
+    "href": "examples/pluto/passage-plus-image/index.html#screen-capture",
+    "title": "Read passage of text with image from BNE copy",
+    "section": "Screen capture",
+    "text": "Screen capture"
+  },
+  {
+    "objectID": "examples/pluto/validation/index.html",
+    "href": "examples/pluto/validation/index.html",
+    "title": "Validating editing of glosses",
+    "section": "",
+    "text": "Validate editorial work by physical page. Select a page, and visually review:\n\ncoverage of editing (visually survey page image ith all indexed regions highlighted)\naccuracy of editing and indexing (compare juxtaposed diplomatic text with indexed region of source image)\n\n\n\n\n\n\n\nNoteRequirements\n\n\n\nThis notebook expects to be run from a clone of the github repository, and assumes it can read source files in the local file system. This is so that editorial work can be reviewed before it is committed to github."
+  },
+  {
+    "objectID": "examples/pluto/validation/index.html#overview",
+    "href": "examples/pluto/validation/index.html#overview",
+    "title": "Validating editing of glosses",
+    "section": "",
+    "text": "Validate editorial work by physical page. Select a page, and visually review:\n\ncoverage of editing (visually survey page image ith all indexed regions highlighted)\naccuracy of editing and indexing (compare juxtaposed diplomatic text with indexed region of source image)\n\n\n\n\n\n\n\nNoteRequirements\n\n\n\nThis notebook expects to be run from a clone of the github repository, and assumes it can read source files in the local file system. This is so that editorial work can be reviewed before it is committed to github."
+  },
+  {
+    "objectID": "examples/pluto/validation/index.html#notebook",
+    "href": "examples/pluto/validation/index.html#notebook",
+    "title": "Validating editing of glosses",
+    "section": "Notebook",
+    "text": "Notebook\n\n\n\n\n\n\nWarningUses local resources\n\n\n\nThis notebook uses data in local files, and expects to be run files from a copy of this github repository.\n\n\n\nHTML version (readable in a web browser)\nPluto notebook (download and open in Pluto)"
+  },
+  {
+    "objectID": "examples/pluto/validation/index.html#screen-capture",
+    "href": "examples/pluto/validation/index.html#screen-capture",
+    "title": "Validating editing of glosses",
+    "section": "Screen capture",
+    "text": "Screen capture\nPortion of notebook illustrating verification of accuracy of editing and indexing: juxtapose diplomatic text with indexed region of source image.\n\n\n\nVisual comparison of edition and indexed image"
+  },
+  {
+    "objectID": "examples/quarto/index.html",
+    "href": "examples/quarto/index.html",
+    "title": "Quarto",
+    "section": "",
+    "text": "Quarto is a publication system that lets you combine prose in Markdown’s plain-text format with executable code. Quarto can generate output in many formats (web pages, camera-ready PDFs, slide stacks…), and embeds the output of code blocks in the published format.\nWe can reuse exactly the same code we experiment with in Pluto notebooks in Quarto documents.",
+    "crumbs": [
+      "Applications",
+      "Quarto"
+    ]
+  },
+  {
+    "objectID": "examples/quarto/index.html#quarto-documents-were-currently-developing",
+    "href": "examples/quarto/index.html#quarto-documents-were-currently-developing",
+    "title": "Quarto",
+    "section": "Quarto documents we’re currently developing",
+    "text": "Quarto documents we’re currently developing\n\nslides used at the 2025 Society for Classical Studies meeting:\n\nsource code\nPDF export of the RevealJS presentation\n\nslides used at the 2024 Society of Biblical Literature meeting:\n\nsource code for the interactive presentation using RevealJS\nPDF export of the RevealJS presentation\n\nslides used at the 2025 Society for Classical Studies meeting\n\nsource code for slide stack using RevealJS\nPDF export of the slide stack\n\n\nforthcoming article: Neel Smith and Ashley Terjanian, “Inclusive multilingual reading five centuries after the Complutensian polyglot Bible” (source and rendered version to be added after publication, expected in 2025).\nthe project web site:\n\nsource code on github\npublished as a web site",
+    "crumbs": [
+      "Applications",
+      "Quarto"
+    ]
+  }
+]

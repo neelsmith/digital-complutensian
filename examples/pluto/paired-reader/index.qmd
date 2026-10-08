@@ -1,5 +1,4 @@
 ---
-engine: julia
 title: A paired reader
 ---
 
