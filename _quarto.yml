@@ -36,9 +36,11 @@ website:
     right:
       - icon: person-circle
         menu:
-          - text: "Neel Smith: home page"
-            href: https://neelsmith.quarto.pub
-        aria-label: Home  
+          - text: "Neel Smith home"
+            href: https://neelsmith.github.io
+          - text: "Other projects"
+            href: https://neelsmith.github.io/projects/            
+        aria-label: Home 
 
   sidebar:
     - title: "Home"
