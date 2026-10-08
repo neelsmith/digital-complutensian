@@ -1,5 +1,4 @@
 ---
-engine: julia
 title: Project lexeme across Latin documents
 ---
 

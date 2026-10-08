@@ -1,5 +1,4 @@
 ---
-engine: julia
 title: Lexeme frequencies for verbs in Latin texts
 ---
 

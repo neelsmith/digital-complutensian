@@ -1,6 +1,3 @@
----
-engine: julia
----
 
 # The survival of the Complutensian Bible
 

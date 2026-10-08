@@ -1,5 +1,4 @@
 ---
-engine: julia
 title: Texts and glosses aligned by passage
 ---
 

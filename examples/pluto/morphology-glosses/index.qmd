@@ -1,6 +1,3 @@
----
-engine: julia
----
 
 
 # Validate normalized text by parsing it morphologically

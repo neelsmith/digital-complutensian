@@ -1,5 +1,4 @@
 ---
-engine: julia
 title: Exploring the digital polyglot
 ---
 

@@ -1,5 +1,4 @@
 ---
-engine: julia
 bibliography: references.bib
 ---
 

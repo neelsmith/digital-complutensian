@@ -1,6 +1,3 @@
----
-engine: julia
----
 
 # Navigate by quire and page
 

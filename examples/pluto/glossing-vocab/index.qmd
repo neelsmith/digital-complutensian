@@ -1,5 +1,4 @@
 ---
-engine: julia
 title: Comparing vocabulary of Latin glosses
 ---
 
