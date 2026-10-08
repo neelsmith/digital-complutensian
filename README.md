@@ -1,5 +1,5 @@
 # complutensian-docs
 
-Documentation and web site for Digital Complutensian project
+Source for the Digital Complutensian project's [web site](https://neelsmith.github.io/digital-complutensian/).
 
 
